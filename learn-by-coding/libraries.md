@@ -127,6 +127,12 @@ A c-lightning plugin that actively sends test payments through the lightning net
 
 {% embed url="https://github.com/niftynei/sitzprobe" %}
 
+## Tapscript
+
+A basic library for working with Taproot, Schnorr Signatures, and Bitcoin transactions.
+
+{% embed url="https://github.com/cmdruid/tapscript" %}
+
 ## WebLN Library
 
 WebLN is a library and set of specifications for lightning apps and client providers to facilitate communication between apps and users' lightning nodes in a secure way. It provides a programmatic, permissioned interface for letting applications ask users to send payments, generate invoices to receive payments, and much more.
