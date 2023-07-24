@@ -177,6 +177,10 @@ We'll start by diving into the cryptographic algorithms used in Bitcoin and walk
 
 {% embed url="https://learn.saylor.org/course/view.php?id=500" %}
 
+## Sphinx Tutorials
+
+{% embed url="https://sphinx.chat/for-developers/" %}
+
 ## Spiral
 
 {% embed url="https://www.youtube.com/@SpiralBTC/videos" %}
