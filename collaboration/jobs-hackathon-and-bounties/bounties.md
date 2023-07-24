@@ -23,6 +23,10 @@ Bringing Bitcoin to all means also bringing Bitcoin development to all. NYDIG wa
 
 {% embed url="https://nydig.com/bounties" %}
 
+## Sphinx Bounties
+
+{% embed url="https://community.sphinx.chat/tickets" %}
+
 ## Stacker News Bounties
 
 Our goal was to make it an extremely permissive feature and avoid overprescribing how to use it:
