@@ -1,8 +1,8 @@
 ---
 description: >-
   PlebBook is a community resource for aspiring developers and builders to learn
-  and get involved with the Bitcoin Lightning ecosystem. A builders manual for
-  Bitcoin and Lightning.
+  and get involved with the Bitcoin Lightning ecosystem. Kinda like a builders
+  manual for Bitcoin and Lightning.
 cover: .gitbook/assets/Home (6).svg
 coverY: 265
 layout: editorial
