@@ -36,6 +36,16 @@ Everyone is welcome to join and [participate](https://bitcoin.design/contribute)
 
 {% embed url="https://bitcoin.design/calendar/" %}
 
+## Bitcoin Optech
+
+Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies.
+
+We provide [workshops](https://bitcoinops.org/workshops), [documentation](https://github.com/bitcoinops/scaling-book), [weekly newsletters](https://bitcoinops.org/en/newsletters/), [original research](https://dashboard.bitcoinops.org/), [case studies and announcements](https://bitcoinops.org/en/blog/), [analysis of Bitcoin software and services](https://bitcoinops.org/en/compatibility/), a [podcast](https://bitcoinops.org/en/podcast/), and help facilitate improved relations between businesses and the open source community.
+
+{% embed url="https://bitcoinops.org/" %}
+
+
+
 ### Bitcoin Product Community
 
 The Bitcoin Product Community helps drive high-impact FOSS and commercial projects within the bitcoin ecosystem by creating a space for people to network, share ideas, seek feedback, and develop skills.
