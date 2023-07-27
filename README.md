@@ -42,4 +42,4 @@ Help us make PlebBook better: these docs are a community effort. [Let us know](l
 
 
 
-<figure><img src=".gitbook/assets/Pleb-Lab-Base-58-Sponsors3 copy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/sponsored-by-pleb-lab-base-58 copy.png" alt=""><figcaption></figcaption></figure>
