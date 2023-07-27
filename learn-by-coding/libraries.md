@@ -121,12 +121,6 @@ A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning,
 
 {% embed url="https://github.com/lightningdevkit/rust-lightning" %}
 
-## Sitzprobe
-
-A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
-
-{% embed url="https://github.com/niftynei/sitzprobe" %}
-
 ## Tapscript
 
 A basic library for working with Taproot, Schnorr Signatures, and Bitcoin transactions.
