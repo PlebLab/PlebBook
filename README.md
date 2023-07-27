@@ -39,3 +39,7 @@ In the spirit of Free and Open-Source Software (FOSS), we see the need for an en
 
 Help us make PlebBook better: these docs are a community effort. [Let us know](learn-by-coding/submit-a-website.md) if you see mistakes, room for improvement, or new opportunities to help Bitcoin developers.
 {% endhint %}
+
+
+
+<figure><img src=".gitbook/assets/Sponsored-By-PlebLab-1000px.png" alt="Sponsored By Pleb Lab"><figcaption></figcaption></figure>
