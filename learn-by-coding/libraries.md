@@ -21,7 +21,7 @@ Sell digital files with Lightning.
 
 Golang based plugin for c-lightning
 
-{% embed url="https://github.com/niftynei/glightning" %}
+{% embed url="https://github.com/elementsproject/glightning" %}
 
 ## Get Lightning Paid
 
