@@ -17,6 +17,12 @@ Breez is offering bounties for the tasks listed below. Relevant PRs must be revi
 
 {% embed url="https://doc.breez.technology/Bounties.html" %}
 
+## HRF Bitcoin Bounty Challenge
+
+The Human Rights Foundation is supporting open-source developers working to increase the usability and privacy of the Bitcoin and Lightning network, E-cash, and Nostr, inspired by HRF’s research around the world with regard to what kind of functionality activists need today in their digital tools.
+
+{% embed url="https://hrfbounties.org/" %}
+
 ## NYDIG Bitcoin Task Bounties
 
 Bringing Bitcoin to all means also bringing Bitcoin development to all. NYDIG wants to incentivize Bitcoin development and expose new developers to the ecosystem. NYDIG is paying bounties for selected tasks in Bitcoin codebases. These are great starting points for those unaccustomed to Bitcoin development, as well as important but often under-prioritized by the existing community of developers.
