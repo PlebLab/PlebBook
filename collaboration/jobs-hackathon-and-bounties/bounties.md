@@ -5,6 +5,12 @@ coverY: 98.23354958294718
 
 # Bounties
 
+## Alby
+
+Alby has bounties for coding and non-coding related topics.
+
+{% embed url="https://github.com/getAlby/lightning-browser-extension/wiki/Bounties" %}
+
 ## BIP Bounty
 
 Tax Deductible Bug Bounties for Bitcoin. Incentivize the research, development, and vetting of Bitcoin Improvement Proposals by implementing a system for crowdsourcing tax-deductible bug bounties, and distributing them to bounty winners.
