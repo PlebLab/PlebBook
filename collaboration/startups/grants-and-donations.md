@@ -73,6 +73,12 @@ OKCoin is dedicated to investing in protocol development, increase utility and a
 
 {% embed url="https://developergrant.okcoin.com/" %}
 
+## PkgZaps
+
+Open source money for open source packages. Value4Value payments for npm (and other package managers)
+
+{% embed url="https://pkgzap.albylabs.com" %}
+
 ## Superlunar Funds
 
 Superlunar worked to strengthen web3’s infrastructure by empowering its contributors. Since 2020, we funded and supported the global builders, maintainers, and educators working toward the continued success of the Bitcoin Network and adjacent technologies. We considered proposals for individuals seeking sponsorship, project-based work, and large scale programs. Programs seeking sponsorship should be focused on educating and nurturing developer talent, ideally serving underrepresented areas of the ecosystem. ‍ Superlunar was an extension of the Gemini Opportunity Fund created in 2020 and plans to build upon its previous impact. Previous GOF grant recipients include foundations such as MIT Media Lab’s Digital Currency Initiative (DCI), projects like Mempool.space and multiple Bitcoin Core developers.
