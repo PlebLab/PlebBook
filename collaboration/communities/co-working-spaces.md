@@ -25,7 +25,7 @@ A community supported campus in Nashville focused on grassroots bitcoin adoption
 
 ## BOB Space - Bangkok, Thailand
 
-A #₿itcoin only hatchery, incubator and co-working space in the heart of Bangkok, Thailand. Supporting Bitcoin education, adoption and advocating freedom tech. We have Bitcoin education workshops and presentations. We want to be the First Bitcoin Academy and Residency in Thailand for future and current developers.
+\#Bitcoin only hatchery, incubator and co-working space in the heart of Bangkok, Thailand. Supporting Bitcoin education and adoption. Freedom tech advocates.
 
 {% embed url="https://www.bobspaces.net/" %}
 
