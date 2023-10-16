@@ -115,7 +115,7 @@ coverY: 98.9481000926784
 
 [**Kristaps Kaupe**](https://github.com/kristapsk) - Maintainer of JoinMarket, contributing to Bitcoin Core, c-lightning and other projects.
 
-[**Kody Law**](https://github.com/Kodylow)
+[**Kody Low**](https://github.com/Kodylow) - Kody is a bitcoin hacker and Head of Developer and Product Support for Fedi. He’s been teaching and contributing to open source bitcoin development for over two years. Prior to Bitcoin, Kody served as a Marine Infantry Officer.
 
 [**Kulpreet Singh**](https://github.com/kulpreet) - Member of the Libbitcoin Institute.]
 

@@ -21,7 +21,7 @@ Sell digital files with Lightning.
 
 Golang based plugin for c-lightning
 
-{% embed url="https://github.com/niftynei/glightning" %}
+{% embed url="https://github.com/elementsproject/glightning" %}
 
 ## Get Lightning Paid
 
@@ -120,12 +120,6 @@ Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning&#x20;
 A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning! LDK/rust-lightning is a highly performant and flexible implementation of the Lightning Network protocol. The primary crate, lightning, is runtime-agnostic. Data persistence, chain interactions, and networking can be provided by LDK's sample modules, or you may provide your own custom implementations.
 
 {% embed url="https://github.com/lightningdevkit/rust-lightning" %}
-
-## Sitzprobe
-
-A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
-
-{% embed url="https://github.com/niftynei/sitzprobe" %}
 
 ## Tapscript
 
