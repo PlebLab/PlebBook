@@ -31,9 +31,14 @@ Faraday is a suite of tools built to help node operators and businesses run lnd,
 
 {% embed url="https://github.com/lightninglabs/faraday" %}
 
+### Mash
+
+New ways to monetize media for publishers & creators. Leverage bitcoin & the lightning network with no-code immersive tools your audience will love. Take power back from big-tech and stop relying on ads and high-friction subscriptions.
+
+{% embed url="https://mash.com/" %}
+
 ### Script Wizard
 
 Script Wizard makes it easy to design and compile custom Bitcoin + Liquid scripts. Built by Burak.
 
 {% embed url="https://ide.scriptwiz.app/" %}
-
