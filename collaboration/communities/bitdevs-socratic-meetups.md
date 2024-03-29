@@ -107,6 +107,12 @@ Free monthly meetups to discuss technical developments in the bitcoin protocol a
 
 {% embed url="https://www.norfolkbitdevs.org/" %}
 
+### Perth, Australia
+
+The Monthly Perth BitDevs at Phat Brew in City West. All bitcoin, no shitcoins. Chatham House rules and no faces in photos unless agreed to.
+
+{% embed url="https://www.meetup.com/en-AU/bitcoin-perth/" %}
+
 ### Portland
 
 Portland BitDevs is strictly focused on Bitcoin & the Lightning Network! With that said, this meetup is for EVERYONE of all Bitcoin knowledge levels (technical & general).
