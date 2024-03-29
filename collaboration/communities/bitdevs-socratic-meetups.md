@@ -83,6 +83,12 @@ BitDevs is a community for those interested in discussing and participating in t
 
 {% embed url="https://miamibitdevs.org/" %}
 
+### Montreal
+
+Inspired by other BitDevs meetups around the US, our Socratic Seminar events are formatted to foster debate, information sharing and lively discussion. Discussion topics are provided ahead of the event.
+
+{% embed url="https://www.meetup.com/montreal-bitdev/" %}
+
 ### Nairobi, Kenya
 
 BitDevsNBO is a community in Nairobi, Kenya, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.
