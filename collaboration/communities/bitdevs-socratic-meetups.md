@@ -65,6 +65,12 @@ Socratic seminar style BitDevs meetup in Joburg. This is a developer and technic
 
 {% embed url="https://bitdevs.joburg/" %}
 
+### Lagos, Nigeria
+
+BitDev Lagos is a community based in Lagos, Nigeria, that provides a platform for individuals interested in exploring and contributing to the research and development of Bitcoin and related protocols.
+
+{% embed url="https://www.eventbrite.com/e/bitdev-lagos-meetup-tickets-568256920747" %}
+
 ### London
 
 London BitDevs is a community of Bitcoin enthusiasts and professionals interested in discussing and participating in the research and development of Bitcoin and related protocols.
@@ -176,8 +182,6 @@ Join us for DC BitDevs. We'll talk about what's new with bitcoin development and
 **Boise, ID**: [https://twitter.com/BoiseBitDevs](https://twitter.com/BoiseBitDevs)
 
 **Kampala** : https://twitter.com/BitDevsKla
-
-**Lagos, Nigeria**: [https://twitter.com/BitDevsLagos](https://twitter.com/BitDevsLagos)
 
 **Paris, France**: https://twitter.com/bitdevsfr
 
