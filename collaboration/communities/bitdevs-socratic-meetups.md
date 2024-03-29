@@ -5,6 +5,12 @@ coverY: 91.44578313253012
 
 # BitDevs Socratic Meetups
 
+### Abuja, Nigeria
+
+During this meetup, we'll dive into the latest trends and developments in the technical aspect of Bitcoin. Whether a beginner or an experienced developer, this event offers a great opportunity to network, share knowledge, and collaborate with like-minded individuals.
+
+{% embed url="https://www.eventbrite.com/o/nully0x-65393088633/" %}
+
 ### Atlanta
 
 The Atlanta BitDevs is a place for free and open Bitcoin education in Atlanta. Discussions will be technical but are open to people of all skill levels. Join the community and #LearnBitcoinTogether!
