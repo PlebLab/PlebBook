@@ -41,6 +41,12 @@ Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency
 
 {% embed url="https://bitcoin.stackexchange.com/" %}
 
+## Bitshala Bitcoin PR Review Club
+
+Inner glimpses of Bitcoin Core. A bi-weekly PR Review Club with experienced core contributors to get your hands dirty with Bitcoin Core Development.
+
+{% embed url="https://bitshala.org/review/" %}
+
 ## Core Lightning Community
 
 Whether you're a developer, node runner, or just interested in Lightning tech, this is the place to connect and have meaningful conversations. Ask a burning question, discuss latest developments, or share your knowledge and insights. The floor is yours.
