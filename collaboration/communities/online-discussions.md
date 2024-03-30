@@ -41,6 +41,12 @@ Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency
 
 {% embed url="https://bitcoin.stackexchange.com/" %}
 
+## Bitshala - Bitcoin Study Cohort
+
+Learning Bitcoin alone can be a daunting journey, join our cohort and find your tribe. Whether from India, SEA, or outside, cohorts are the best way to discover other bitcoiners with similar hunger, curiosity, physical location, and technical acumen.
+
+{% embed url="https://discord.com/invite/STeQFVEWf9/" %}
+
 ## Core Lightning Community
 
 Whether you're a developer, node runner, or just interested in Lightning tech, this is the place to connect and have meaningful conversations. Ask a burning question, discuss latest developments, or share your knowledge and insights. The floor is yours.
