@@ -11,6 +11,13 @@ Co-working for bitcoin startups on the Atlanta Beltline. The city of Atlanta has
 
 {% embed url="https://atlbitlab.com/" %}
 
+## BOB Space - Bangkok, Thailand
+
+\#Bitcoin only hatchery, incubator and co-working space in the heart of Bangkok, Thailand. Supporting Bitcoin education and adoption. Freedom tech advocates.
+
+{% embed url="https://www.bobspaces.net/" %}
+
+
 ## hack.bs - Brescia, Italy
 
 hack.bs is a non-profit cypherpunk hackerspace located in Brescia, Italy. Our mission is to provide a space where people can learn about Bitcoin, technology, open-source, privacy and freedom, and connect with other like-minded individuals. Our office is near the metro stop Vittoria, in Contrada del Cavalletto 24, Brescia. We regularly host workshops, meetups, hackathons and more, open to everybody.
