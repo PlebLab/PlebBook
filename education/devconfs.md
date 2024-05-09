@@ -11,11 +11,13 @@ So you work for a company that has or is considering bitcoin or blockchain techn
 
 {% embed url="https://www.advancingbitcoin.com/" %}
 
-## Adopting Bitcoin: a lighting summit in El Salvador
+## Adopting Bitcoin: a global lighting summit
 
 El‍ Salvador‍ is‍ the‍ first‍ country‍ to‍ adopt‍ Bitcoin,‍ making‍ it‍ the‍ ground-zero‍ for‍ global‍ Bitcoin‍ adoption.‍ This‍ novel‍ situation‍ presents‍ both‍ the‍ challenge‍ of‍ onboarding‍ users‍ and‍ the‍ opportunity‍ to‍ learn‍ from‍ them,‍ benefiting‍ the‍ entire‍ ecosystem,‍ from‍ protocol‍ and‍ application‍ developers‍ to‍ entrepreneurs,‍ investors,‍ and‍ the‍ many‍ communities‍ around‍ the‍ world‍ that‍ followed‍ Bitcoin‍ Beach's‍ example‍ by‍ establishing‍ circular‍ Bitcoin‍ economies.‍
 
-{% embed url="https://adoptingbitcoin.org/" %}
+- 🇸🇻 San Salvador {% embed url="https://adoptingbitcoin.org/" %}
+- 🇿🇦 Cape Town {% embed url="https://adoptingbitcoin.org/capetown-2024/" %}
+- 🇳🇱 Arnhem {% embed url="https://adoptingbitcoinarnhem.com/" %}
 
 ## Baltic Honeybadger - Riga, Latvia
 
