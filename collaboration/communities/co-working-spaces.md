@@ -35,6 +35,12 @@ The House of Bitcoin is a place where training, and meetings are held and help t
 
 {% embed url="https://www.lacasadelbitcoin.org/" %}
 
+## Chiang Mai Bitcoin Education Center, Thailand
+
+A modern space built in a 50 year old renovated building, also offers cozy accommodations on the upper floors. Exciting times ahead! Recently opened. so stay up for updates!
+
+{% embed url="https://twitter.com/JimmyKostro/status/1761310830543385081" %}
+
 ## Lugano Plan B
 
 Lugano’s Plan ₿ is a joint initiative between the City of Lugano and Tether to accelerate the use of and leverage bitcoin technology as the foundation to transform the city’s financial infrastructure.
