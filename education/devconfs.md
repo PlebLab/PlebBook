@@ -19,6 +19,12 @@ El‍ Salvador‍ is‍ the‍ first‍ country‍ to‍ adopt‍ Bitcoin,‍ ma
 - 🇿🇦 Cape Town {% embed url="https://adoptingbitcoin.org/capetown-2024/" %}
 - 🇳🇱 Arnhem {% embed url="https://adoptingbitcoinarnhem.com/" %}
 
+## ALIVE: Bitcoin Australia’s premier bitcoin-only experience
+
+Bitcoin Alive brings together Australia’s Bitcoin community for a day of the highest quality Bitcoin content - featuring the best Bitcoin minds from Australia and the world. Bitcoin Alive is strictly Bitcoin-only, catering to beginners and veterans alike. Whether you are already a Bitcoiner or curious to understand this incredible technology, this event is for you.
+
+{% embed url="https://bitcoinalive.io/" %}
+
 ## Baltic Honeybadger - Riga, Latvia
 
 Cypherpunk movement for PASSIONATE BITCOINERS. Yearly initiative around the Baltic Honeybadger conference full of Bitcoin events focused on education, sharing recent development, and growing Bitcoin adoption. We speak about Bitcoin, hold workshops, brainstorm, network and party! Riga Bitcoin Week is a week of high-quality educational content delivered by the top industry players.
