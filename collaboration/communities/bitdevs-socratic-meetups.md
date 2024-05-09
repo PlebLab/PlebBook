@@ -155,6 +155,11 @@ This group is dedicated to providing neutral information and education resource 
 
 {% embed url="https://tampabitdevs.io/" %}
 
+### Tokio
+Feature technical presentations and discussions, focused on developing Bitcoin software, discussing the latest advancements in Lightning, and exchanging ideas about how to make bitcoin more secure and easier to use for everyone. After the presentations, a nomikai follows.
+
+{% embed url="https://www.meetup.com/tokyo-bitcoin-hackers/" %}
+
 ### Vancouver
 
 Vancouver Bitcoiners gathers like-minded individuals, for the spreading of knowledge and experience relating to Bitcoin, the Lightning Network and Layer 2 solutions such as Liquid (L-BTC).
