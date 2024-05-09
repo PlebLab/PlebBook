@@ -29,9 +29,15 @@ It is engaging and open: each meetup is led by a panel of active Bitcoin contrib
 
 {% embed url="https://bitdevs-athens.com/" %}
 
-### Berlin
+### Bangkok
 
 BitDevs Berlin is a local community for those interested in discussing and participating in the research and development of Bitcoin and related protocols. You can be well versed with or new to the topics, all are welcome. Be advised: discussion will be technical.
+
+{% embed url="https://www.meetup.com/bob-space-community-events/" %}
+
+### Berlin
+
+BitDevs Bangkok is a free and open event running each first Wednesday from 6.30 pm onwards. Each meetup is led by a panel of active Bitcoin contributors, but audience participation is encouraged for a bidirectional exploration of current topics in the Bitcoin ecosystem. All levels of technical ability and familiarity with Bitcoin are encouraged to come and participate. We’re here to discuss the state of the network from fundamentals up.
 
 {% embed url="https://bitdevs.berlin/" %}
 
