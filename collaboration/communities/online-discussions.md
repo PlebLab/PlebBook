@@ -41,11 +41,12 @@ Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency
 
 {% embed url="https://bitcoin.stackexchange.com/" %}
 
-## Bitshala Bitcoin PR Review Club
+## Bitshala - Bitcoin Study Cohort
 
-Inner glimpses of Bitcoin Core. A bi-weekly PR Review Club with experienced core contributors to get your hands dirty with Bitcoin Core Development.
+Learning Bitcoin alone can be a daunting journey, join our cohort and find your tribe. Whether from India, SEA, or outside, cohorts are the best way to discover other bitcoiners with similar hunger, curiosity, physical location, and technical acumen.
 
-{% embed url="https://bitshala.org/review/" %}
+{% embed url="https://discord.com/invite/STeQFVEWf9/" %}
+
 
 ## Core Lightning Community
 
