@@ -47,6 +47,7 @@ Learning Bitcoin alone can be a daunting journey, join our cohort and find your 
 
 {% embed url="https://discord.com/invite/STeQFVEWf9/" %}
 
+
 ## Core Lightning Community
 
 Whether you're a developer, node runner, or just interested in Lightning tech, this is the place to connect and have meaningful conversations. Ask a burning question, discuss latest developments, or share your knowledge and insights. The floor is yours.
