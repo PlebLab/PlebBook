@@ -5,6 +5,12 @@ coverY: 91.44578313253012
 
 # BitDevs Socratic Meetups
 
+### Abuja, Nigeria
+
+During this meetup, we'll dive into the latest trends and developments in the technical aspect of Bitcoin. Whether a beginner or an experienced developer, this event offers a great opportunity to network, share knowledge, and collaborate with like-minded individuals.
+
+{% embed url="https://www.eventbrite.com/o/nully0x-65393088633/" %}
+
 ### Atlanta
 
 The Atlanta BitDevs is a place for free and open Bitcoin education in Atlanta. Discussions will be technical but are open to people of all skill levels. Join the community and #LearnBitcoinTogether!
@@ -29,9 +35,15 @@ It is engaging and open: each meetup is led by a panel of active Bitcoin contrib
 
 {% embed url="https://bitdevs-athens.com/" %}
 
-### Berlin
+### Bangkok
 
 BitDevs Berlin is a local community for those interested in discussing and participating in the research and development of Bitcoin and related protocols. You can be well versed with or new to the topics, all are welcome. Be advised: discussion will be technical.
+
+{% embed url="https://www.meetup.com/bob-space-community-events/" %}
+
+### Berlin
+
+BitDevs Bangkok is a free and open event running each first Wednesday from 6.30 pm onwards. Each meetup is led by a panel of active Bitcoin contributors, but audience participation is encouraged for a bidirectional exploration of current topics in the Bitcoin ecosystem. All levels of technical ability and familiarity with Bitcoin are encouraged to come and participate. We’re here to discuss the state of the network from fundamentals up.
 
 {% embed url="https://bitdevs.berlin/" %}
 
@@ -65,6 +77,12 @@ Socratic seminar style BitDevs meetup in Joburg. This is a developer and technic
 
 {% embed url="https://bitdevs.joburg/" %}
 
+### Lagos, Nigeria
+
+BitDev Lagos is a community based in Lagos, Nigeria, that provides a platform for individuals interested in exploring and contributing to the research and development of Bitcoin and related protocols.
+
+{% embed url="https://www.eventbrite.com/e/bitdev-lagos-meetup-tickets-568256920747" %}
+
 ### London
 
 London BitDevs is a community of Bitcoin enthusiasts and professionals interested in discussing and participating in the research and development of Bitcoin and related protocols.
@@ -82,6 +100,12 @@ BitDevs LA is a community in the Los Angeles area for those interested in discus
 BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
 
 {% embed url="https://miamibitdevs.org/" %}
+
+### Montreal
+
+Inspired by other BitDevs meetups around the US, our Socratic Seminar events are formatted to foster debate, information sharing and lively discussion. Discussion topics are provided ahead of the event.
+
+{% embed url="https://www.meetup.com/montreal-bitdev/" %}
 
 ### Nairobi, Kenya
 
@@ -106,6 +130,12 @@ For those interested in the research and development of the Bitcoin protocol.
 Free monthly meetups to discuss technical developments in the bitcoin protocol and related projects. This meetup is intended for a technical audience with a solid understanding of the bitcoin ecosystem. New developers are welcome.
 
 {% embed url="https://www.norfolkbitdevs.org/" %}
+
+### Perth, Australia
+
+The Monthly Perth BitDevs at Phat Brew in City West. All bitcoin, no shitcoins. Chatham House rules and no faces in photos unless agreed to.
+
+{% embed url="https://www.meetup.com/en-AU/bitcoin-perth/" %}
 
 ### Portland
 
@@ -149,6 +179,11 @@ This group is dedicated to providing neutral information and education resource 
 
 {% embed url="https://tampabitdevs.io/" %}
 
+### Tokio
+Feature technical presentations and discussions, focused on developing Bitcoin software, discussing the latest advancements in Lightning, and exchanging ideas about how to make bitcoin more secure and easier to use for everyone. After the presentations, a nomikai follows.
+
+{% embed url="https://www.meetup.com/tokyo-bitcoin-hackers/" %}
+
 ### Vancouver
 
 Vancouver Bitcoiners gathers like-minded individuals, for the spreading of knowledge and experience relating to Bitcoin, the Lightning Network and Layer 2 solutions such as Liquid (L-BTC).
@@ -176,8 +211,6 @@ Join us for DC BitDevs. We'll talk about what's new with bitcoin development and
 **Boise, ID**: [https://twitter.com/BoiseBitDevs](https://twitter.com/BoiseBitDevs)
 
 **Kampala** : https://twitter.com/BitDevsKla
-
-**Lagos, Nigeria**: [https://twitter.com/BitDevsLagos](https://twitter.com/BitDevsLagos)
 
 **Paris, France**: https://twitter.com/bitdevsfr
 

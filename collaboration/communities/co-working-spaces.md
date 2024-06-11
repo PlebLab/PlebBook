@@ -23,17 +23,17 @@ A community supported campus in Nashville focused on grassroots bitcoin adoption
 
 {% embed url="https://bitcoinpark.com/" %}
 
-## BOB Space - Bangkok, Thailand
-
-\#Bitcoin only hatchery, incubator and co-working space in the heart of Bangkok, Thailand. Supporting Bitcoin education and adoption. Freedom tech advocates.
-
-{% embed url="https://www.bobspaces.net/" %}
-
 ## Casa Del Bitcoin
 
 The House of Bitcoin is a place where training, and meetings are held and help to understand and adopt the technology. We don't focus on a particular platform, but on being able to help people understand what Bitcoin is, how it works, and in this way, making adoption much more effective for the population.
 
 {% embed url="https://www.lacasadelbitcoin.org/" %}
+
+## Chiang Mai Bitcoin Education Center, Thailand
+
+A modern space built in a 50 year old renovated building, also offers cozy accommodations on the upper floors. Exciting times ahead! Recently opened. so stay up for updates!
+
+{% embed url="https://twitter.com/JimmyKostro/status/1761310830543385081" %}
 
 ## Lugano Plan B
 

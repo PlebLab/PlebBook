@@ -11,11 +11,19 @@ Co-working for bitcoin startups on the Atlanta Beltline. The city of Atlanta has
 
 {% embed url="https://atlbitlab.com/" %}
 
+
 ## BOB Space - Bangkok, Thailand
 
 \#Bitcoin only hatchery, incubator and co-working space in the heart of Bangkok, Thailand. Supporting Bitcoin education and adoption. Freedom tech advocates.
 
 {% embed url="https://www.bobspaces.net/" %}
+
+
+## HUB21 - Belgrade, Serbia
+
+HUB21 is a non-profit organization nestled in the heart of Belgrade, dedicated to fostering education, training, research, and community engagement in the realm of Bitcoin and related technologies. As a central hub for professionals in Bitcoin-focused technical fields, we provide a dynamic environment for members to thrive and spearhead initiatives in bitcoin education and advocacy.
+
+{% embed url="https://hub21.rs/" %}
 
 
 ## hack.bs - Brescia, Italy
@@ -26,16 +34,6 @@ hack.bs is a non-profit cypherpunk hackerspace located in Brescia, Italy. Our mi
 
 ## PlebLab - Austin, TX
 
-PlebLab is a Bitcoin hackerspace and community accelerator in Austin, Texas. PlebLab is the first of its kind. PlebLab is 100% Developer focused. If you're a builder, we want you here. \
-\
-√ Granted workspace among other Bitcoin startups and developers. \
-√ Access to our team of mentors: Matt Odell, Lisa Neigut, Ben Price, Zack Shapiro, Graham Krizek, and John Cantrell \
-√ Grassroots marketing, planning, and business development. All are customized for your company's needs. \
-√ Beta stage users through local bitcoin meet-ups, clubs, and other events. \
-√ A growing network of partnerships to build brand exposure.\
-\
-PlebLab throws private and public events, workshops, hackathons, and startup days for community members inside of PlebLab.
+PlebLab is a Bitcoin hackerspace and community accelerator in Austin, Texas. PlebLab is the first of its kind.PlebLab's mission is to foster a  community of developers, hackers, creatives, and builders of open-source software/hardware. Creating a space where individuals can collaborate, elevate their skills, and transform seemingly impossible ideas into reality.
 
 {% embed url="https://www.pleblab.com/" %}
-
-{% embed url="https://www.youtube.com/@pbs_plebs/videos" %}
