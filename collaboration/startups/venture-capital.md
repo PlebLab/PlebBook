@@ -5,11 +5,23 @@ coverY: 109
 
 # Venture Capital
 
+## Axiom
+
+{% embed url="https://www.axiombtc.capital/" %}
+
 ## Bitcoiner Ventures
 
 We are dedicated to funding Bitcoin companies and projects that are good for Bitcoin.
 
 {% embed url="https://www.bitcoinerventures.com/" %}
+
+## Bitgrow Lab
+
+{% embed url="https://bitgrowlab.com/" %}
+
+## Epoch VC
+
+{% embed url="https://epochvc.io/" %}
 
 ## Fulgur Ventures
 
@@ -22,6 +34,10 @@ We believe in Bitcoin as a next generation politically neutral monetary system, 
 We don’t follow the rules, we create our own. We look below the surface. We constantly question. We avoid group-think and narrow-mindedness. We seek truth. We want a world that is unified, not divided. We value kindness, generosity, honesty and integrity. We support the collective good. We reject exclusivity and exploitation. We believe in financial security for all and equal access to wealth. We don’t subscribe to excessive greed. We trust in abundance. We recognize the importance of this work. We are entrepreneurs investing in entrepreneurs. We fund game-changing companies with innovative solutions to real problems.
 
 {% embed url="https://egodeath.capital/" %}
+
+## HCM Capital
+
+{% embed url="https://hcm.capital/" %}
 
 ## Hivemind Ventures
 
@@ -71,3 +87,18 @@ We help Bitcoin founders build iconic brands at the emergence of a new monetary 
 
 {% embed url="https://tvp.fund/" %}
 
+## Vailshire Capital Management
+
+{% embed url="https://vailshire.com/" %}
+
+## Bitcoin Opportunity Fund
+
+{% embed url="https://www.bitcoinopportunity.fund/" %}
+
+## PermaVentures
+
+{% embed url="https://perma.ventures/" %}
+
+## Cholla Ventures
+
+{% embed url="https://www.chollapetro.com/cholla-ventures" %}
