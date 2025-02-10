@@ -5,7 +5,13 @@ coverY: 102.41447963800906
 
 # Libraries
 
-### Bitcoin Core C Library
+## Alby JS SDK
+
+JavaScript SDK for the Alby OAuth2 Wallet API and the Nostr Wallet Connect API.
+
+{% embed url="https://github.com/getAlby/js-sdk" %}
+
+## Bitcoin Core C Library
 
 Optimized C library for EC operations on curve secp256k1. This library is intended to be the highest quality publicly available library for cryptography on the secp256k1 curve. However, the primary focus of its development has been for usage in the Bitcoin system and usage unlike Bitcoin's may be less well tested, verified, or suffer from a less well thought out interface. Correct usage requires some care and consideration that the library is fit for your application's purpose.
 
@@ -28,8 +34,6 @@ Golang based plugin for c-lightning
 A Flask REST API to generate lightning invoices and payment confirmations.
 
 {% embed url="https://github.com/conscott/get-lightning-paid" %}
-
-
 
 ## ln-Paywall
 
@@ -91,7 +95,7 @@ Minimal QR-code-ready encoding for requesting lightning payments
 
 {% embed url="https://github.com/rustyrussell/lightning-payencode" %}
 
-## Lighning PHP
+## Lightning PHP
 
 PHP client for direct RPC-based access to the c-lightning daemon
 
@@ -109,13 +113,19 @@ Talk with a lightningd/c-lightning with minimal overhead and gjson responses.
 
 {% embed url="https://github.com/fiatjaf/lightningd-gjson-rpc" %}
 
+## Lightning Web SDK
+
+Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps
+
+{% embed url="https://github.com/getAlby/js-lightning-tools" %}
+
 ## PayPerCall
 
 Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning&#x20;
 
 {% embed url="https://github.com/ElementsProject/paypercall" %}
 
-### Rust-Lightning
+## Rust-Lightning
 
 A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning! LDK/rust-lightning is a highly performant and flexible implementation of the Lightning Network protocol. The primary crate, lightning, is runtime-agnostic. Data persistence, chain interactions, and networking can be provided by LDK's sample modules, or you may provide your own custom implementations.
 
