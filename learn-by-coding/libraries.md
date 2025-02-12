@@ -17,11 +17,11 @@ Optimized C library for EC operations on curve secp256k1. This library is intend
 
 {% embed url="https://github.com/bitcoin-core/secp256k1" %}
 
-## FileBazzar
+## Breez SDK
 
-Sell digital files with Lightning.
+The Breez SDK provides developers with a end-to-end solution for integrating self-custodial Lightning payments into their apps and services. It eliminates the need for third parties, simplifies the complexities of Bitcoin and Lightning, and enables seamless onboarding for billions of users to the future of peer-to-peer payments.
 
-{% embed url="https://github.com/ElementsProject/filebazaar" %}
+{% embed url="https://github.com/breez/breez-sdk-greenlight" %}
 
 ## gLightning
 
@@ -31,47 +31,53 @@ Golang based plugin for c-lightning
 
 ## Get Lightning Paid
 
-A Flask REST API to generate lightning invoices and payment confirmations.
+Simple Flask API for generating c-lightning invoices and detecting payment using pylightning
 
 {% embed url="https://github.com/conscott/get-lightning-paid" %}
 
-## ln-Paywall
+## Go LNURL
+
+LNURL helpers for building wallets and services in Go.
+
+{% embed url="https://github.com/fiatjaf/go-lnurl" %}
+
+## LN Paywall
 
 Go middleware for monetizing APIs on a per-request basis with Lightning
 
 {% embed url="https://github.com/philippgille/ln-paywall" %}
 
-## ln-Service
+## LN Service
 
-Lightning REST Service
+Node.js interface to LND
 
-{% embed url="https://github.com/philippgille/ln-paywall" %}
+{% embed url="https://github.com/alexbosworth/ln-service" %}
 
-## Lncall
+## LN RPC
 
-LND implementation of paypercall
-
-{% embed url="https://github.com/michael1011/lncall" %}
-
-## Lnrpc
-
-Auto-generated LND RPC interface with Typescript type definition support
+A Typescript gRPC client for LND with support for all LND sub-servers
 
 {% embed url="https://github.com/RadarTech/lnrpc" %}
+
+## LNURL Node
+
+Flexible lnurl server implementation with API and CLI implemented in nodejs.
+
+{% embed url="https://github.com/chill117/lnurl-node" %}
 
 ## Lseed
 
 A DNS seed for the Lightning Network
 
-{% embed url="https://github.com/RadarTech/lnrpc" %}
+{% embed url="https://github.com/cdecker/lseed" %}
 
 ## Lighter
 
-LN node wrapper for c-lightning, eclair and LND (Python)
+LN node wrapper for c-lightning, eclair, electrum, and LND (Python)
 
 {% embed url="https://gitlab.com/inbitcoin/lighter" %}
 
-## Lightning Charge Client js
+## Lightning Charge Client JS
 
 JavaScript client for lightning-charge
 
@@ -124,6 +130,12 @@ Collection of helpful building blocks and tools to develop Bitcoin Lightning web
 Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning&#x20;
 
 {% embed url="https://github.com/ElementsProject/paypercall" %}
+
+## Rush Bitcoin
+
+Rust Bitcoin library
+
+{% embed url="https://github.com/rust-bitcoin/rust-bitcoin" %}
 
 ## Rust-Lightning
 
