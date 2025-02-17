@@ -11,6 +11,44 @@ Optimized C library for EC operations on curve secp256k1. This library is intend
 
 {% embed url="https://github.com/bitcoin-core/secp256k1" %}
 
+## BDK-flutter
+
+Flutter library for the above Bitcoin Development Kit.
+
+{% embed url="https://github.com/LtbLightning/bdk-flutter" %}
+
+
+
+
+
+## bitcoinj
+
+Java-based library for Bitcoin applications, particularly well-suited for lightweight clients.
+
+{% embed url="https://github.com/bitcoinj/bitcoinj" %}
+
+## BitcoinJS
+
+JavaScript library for Bitcoin protocol, ideal for building Bitcoin-based client-side applications.
+
+{% embed url="https://github.com/bitcoinjs/bitcoinjs-lib" %}
+
+## bitcoin-s
+
+Scala-based Bitcoin library that provides tools and functionalities, including a robust API for building Bitcoin applications and platforms.
+
+{% embed url="https://github.com/bitcoin-s/bitcoin-s" %}
+
+
+
+## embit
+
+Minimalistic Python library designed for Bitcoin and Lightning protocol manipulation, aiming for ease of use and extensibility.
+
+{% embed url="https://github.com/diybitcoinhardware/embit" %}
+
+
+
 ## FileBazzar
 
 Sell digital files with Lightning.
@@ -28,8 +66,6 @@ Golang based plugin for c-lightning
 A Flask REST API to generate lightning invoices and payment confirmations.
 
 {% embed url="https://github.com/conscott/get-lightning-paid" %}
-
-
 
 ## ln-Paywall
 
@@ -109,9 +145,21 @@ Talk with a lightningd/c-lightning with minimal overhead and gjson responses.
 
 {% embed url="https://github.com/fiatjaf/lightningd-gjson-rpc" %}
 
+## NBitcoin
+
+Comprehensive Bitcoin library written in C# for the .NET framework.
+
+{% embed url="https://github.com/MetacoSA/NBitcoin" %}
+
+
+
+
+
+
+
 ## PayPerCall
 
-Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning&#x20;
+Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning
 
 {% embed url="https://github.com/ElementsProject/paypercall" %}
 
@@ -141,7 +189,7 @@ Some WebLN client providers include
 
 {% embed url="https://webln.dev/#/" %}
 
-## Wordpress Lightning Publisher&#x20;
+## Wordpress Lightning Publisher
 
 Lightning Publisher for WordPress.
 
@@ -152,4 +200,3 @@ Lightning Publisher for WordPress.
 A WooCommerce gateway for lightning payments
 
 {% embed url="https://github.com/ElementsProject/woocommerce-gateway-lightning" %}
-

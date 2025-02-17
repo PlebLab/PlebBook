@@ -5,9 +5,9 @@ coverY: 104.89773755656108
 
 # DevConfs
 
-## ADVANCING BITCOIN&#x20;
+## ADVANCING BITCOIN
 
-So you work for a company that has or is considering bitcoin or blockchain technology in its strategy? Before going any further come to this expert-led bitcoin conference to hear about best practices and see the best in class products and services on the market for companies just like yours. Bitcoin is now mainstream. The number of bitcoin users is growing steadily and now is the best time to get ahead of the curve to understand what role bitcoin can play in your corporate strategy. Experienced bitcoin solution providers and educators will share their experience and knowledge with you through 25 minute talks, hands-on workshops, and panel discussions. This is an opportunity to meet the experts, hear their thoughts live, and ask them questions.&#x20;
+So you work for a company that has or is considering bitcoin or blockchain technology in its strategy? Before going any further come to this expert-led bitcoin conference to hear about best practices and see the best in class products and services on the market for companies just like yours. Bitcoin is now mainstream. The number of bitcoin users is growing steadily and now is the best time to get ahead of the curve to understand what role bitcoin can play in your corporate strategy. Experienced bitcoin solution providers and educators will share their experience and knowledge with you through 25 minute talks, hands-on workshops, and panel discussions. This is an opportunity to meet the experts, hear their thoughts live, and ask them questions.
 
 {% embed url="https://www.advancingbitcoin.com/" %}
 
@@ -15,9 +15,17 @@ So you work for a company that has or is considering bitcoin or blockchain techn
 
 El‍ Salvador‍ is‍ the‍ first‍ country‍ to‍ adopt‍ Bitcoin,‍ making‍ it‍ the‍ ground-zero‍ for‍ global‍ Bitcoin‍ adoption.‍ This‍ novel‍ situation‍ presents‍ both‍ the‍ challenge‍ of‍ onboarding‍ users‍ and‍ the‍ opportunity‍ to‍ learn‍ from‍ them,‍ benefiting‍ the‍ entire‍ ecosystem,‍ from‍ protocol‍ and‍ application‍ developers‍ to‍ entrepreneurs,‍ investors,‍ and‍ the‍ many‍ communities‍ around‍ the‍ world‍ that‍ followed‍ Bitcoin‍ Beach's‍ example‍ by‍ establishing‍ circular‍ Bitcoin‍ economies.‍
 
-- 🇸🇻 San Salvador {% embed url="https://adoptingbitcoin.org/" %}
-- 🇿🇦 Cape Town {% embed url="https://adoptingbitcoin.org/capetown-2024/" %}
-- 🇳🇱 Arnhem {% embed url="https://adoptingbitcoinarnhem.com/" %}
+* 🇸🇻 San Salvador
+
+{% embed url="https://adoptingbitcoin.org/" %}
+
+* 🇿🇦 Cape Town
+
+{% embed url="https://adoptingbitcoin.org/capetown-2024/" %}
+
+* 🇳🇱 Arnhem
+
+{% embed url="https://adoptingbitcoinarnhem.com/" %}
 
 ## ALIVE: Bitcoin Australia’s premier bitcoin-only experience
 
@@ -45,6 +53,12 @@ Network with fellow Bitcoiners in Austin, Texas. We talk about Bitcoin, Bitcoin,
 
 {% embed url="https://bitblockboom.com/" %}
 
+## Bitcoin Conference
+
+Annual event that brings together Bitcoin enthusiasts, developers, and industry leaders for discussions, networking, and presentations on Bitcoin's future.
+
+{% embed url="https://b.tc/conference" %}
+
 ## BTC Azores
 
 This will be a gathering of subject matter experts without a speaker line-up. Multiple formats during the days: Open panels (aka: Fishbowls), self-organized workshops, lightning talks, and whatever else you want to do. The venue is quite flexible with large conference rooms and a smaller spaces available. With light moderation to keep things rolling, we hope to make everyone participate in high quality debates, express creativity and learn a bunch of things.
@@ -53,11 +67,17 @@ This will be a gathering of subject matter experts without a speaker line-up. Mu
 
 ## MIT BITCOIN EXPO
 
-Starting as a small club of MIT students interested in a technology that wasn't covered in classes, we've grown to become the longest-running university student-led crypto conference in the world. Our conference prides itself on being a technical event that features protocol-level talks and panel discussions from regulators, scientists, developers, researchers, and others who are passionate about furthering our understanding of what's possible in crypto now, and what may be possible in the future.&#x20;
+Starting as a small club of MIT students interested in a technology that wasn't covered in classes, we've grown to become the longest-running university student-led crypto conference in the world. Our conference prides itself on being a technical event that features protocol-level talks and panel discussions from regulators, scientists, developers, researchers, and others who are passionate about furthering our understanding of what's possible in crypto now, and what may be possible in the future.
 
-{% embed url="https://www.mitbitcoinexpo.org/" %}
+{% embed url="https://mitbtcexpo.org/" %}
 
-## pleb.fi&#x20;
+## Op-Next
+
+A scaling conference for Bitcoin builders, developers and founders.
+
+{% embed url="https://opnext.dev/" %}
+
+## pleb.fi
 
 Come for 2 days of hacking, mentorship, workshops, and discussions on how to contribute to bitcoin functionality accelerationism and build kickass applications on bitcoin using nostr, fedimint, miniscript, and more. we’ll also get into how to get your project funded either traditionally or through new age pleb means.
 

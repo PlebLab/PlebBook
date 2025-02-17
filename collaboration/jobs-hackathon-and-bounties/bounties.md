@@ -23,11 +23,29 @@ Breez is offering bounties for the tasks listed below. Relevant PRs must be revi
 
 {% embed url="https://doc.breez.technology/Bounties.html" %}
 
+## Fundsolvr
+
+Fundsolvr is a peer-to-peer crowdfunding marketplace for open-source projects that turns issues into bounties paid directly to builders and project maintainers, enabling open-source contributors to benefit from a value-for-value economy. Integrated dispute resolution tools provide assurances that further increase market efficiencies.
+
+{% embed url="https://fundsolvr.com/" %}
+
 ## HRF Bitcoin Bounty Challenge
 
 The Human Rights Foundation is supporting open-source developers working to increase the usability and privacy of the Bitcoin and Lightning network, E-cash, and Nostr, inspired by HRF’s research around the world with regard to what kind of functionality activists need today in their digital tools.
 
 {% embed url="https://hrfbounties.org/" %}
+
+## Lightning Bounties
+
+Lightning Bounties integrates Bitcoin with GitHub through the Lightning Network, enabling instant Bitcoin payouts for open-source contributions while maintaining GitHub’s native workflows. The platform allows developers globally to solve bounties anytime, directly earning Bitcoin rewards without intermediaries.
+
+{% embed url="https://app.lightningbounties.com/" %}
+
+## Nostrocket
+
+Nostrocket is an experiment in discovering the boundary conditions on sovereign human action that creates more value for honest and productive contributors than **any** other opportunity available to them. We do this by creating a universally applicable hill-climbing algorithm, executed by sovereign human action, and direct it towards discovering the optimal set of boundary conditions.&#x20;
+
+{% embed url="https://nostrocket.org/" %}
 
 ## NYDIG Bitcoin Task Bounties
 
@@ -36,6 +54,8 @@ Bringing Bitcoin to all means also bringing Bitcoin development to all. NYDIG wa
 {% embed url="https://nydig.com/bounties" %}
 
 ## Sphinx Bounties
+
+The bounty platform pays out in bitcoin. Sign up with Sphinx Chat, complete a bounty, and earn bitcoin!
 
 {% embed url="https://community.sphinx.chat/tickets" %}
 
