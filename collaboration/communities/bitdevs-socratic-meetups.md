@@ -214,7 +214,3 @@ Join us for DC BitDevs. We'll talk about what's new with bitcoin development and
 **Floripa**: https://twitter.com/floripabitdevs
 
 **Bitcoin Innovation Hub**: [https://twitter.com/Btchubafrica](https://twitter.com/Btchubafrica)
-
-
-
-test 4
