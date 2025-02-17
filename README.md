@@ -8,9 +8,9 @@ coverY: 265
 layout: editorial
 ---
 
-# Hello Builders Testing 123456..
+# Hello Builders
 
-## **Communities test**
+## **Communities**
 
 The Bitcoin community is home to thousands of developers, technologists, designers, users, HODLers and enthusiasts. Find and connect with like minded individuals to discuss, ponder, and celebrate Bitcoin together.
 
