@@ -53,19 +53,19 @@ Boston BitDevs is a Bitcoin-focused, technical meetup. Like all worldwide BitDev
 
 {% embed url="https://bostonbitdevs.org/" %}
 
-### Chicago&#x20;
+### Chicago
 
 The purpose of this meeting is to discuss topics of interest to developers working on software that touches bitcoin in some way. Free and open debate is critical to the health of the bitcoin community. We insist that attendees do not record audio, video, or still images of the meetup. Furthermore, please do not attribute remarks made in the meetup to individuals.
 
 {% embed url="https://chibitdevs.org/" %}
 
-### Denver&#x20;
+### Denver
 
 Denver BitDevs monthly recurring meetup and community for those interested in discussing and participating in the research and development of Bitcoin and related protocols. You can be well-versed with or new to the topics. Meetups are free, typically occur on the first Thursday of each month, and all are welcome. Be advised: discussion is more technical-focused.
 
 {% embed url="https://www.meetup.com/denver-bitdevs/" %}
 
-### Honolulu&#x20;
+### Honolulu
 
 Honolulu Bitcoin is a community for those interested in discussing current events and technical developments in the Bitcoin space. Beyond being a lucrative investment, Bitcoin is a savings technology at its core, and it's a pivotal tool for empowering individuals to take back their financial freedom in the digital age. We dive deep into the concepts and building blocks that make that possible.
 
@@ -95,7 +95,7 @@ BitDevs LA is a community in the Los Angeles area for those interested in discus
 
 {% embed url="https://bitdevsla.org/" %}
 
-### Miami&#x20;
+### Miami
 
 BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
 
@@ -180,6 +180,7 @@ This group is dedicated to providing neutral information and education resource 
 {% embed url="https://tampabitdevs.io/" %}
 
 ### Tokio
+
 Feature technical presentations and discussions, focused on developing Bitcoin software, discussing the latest advancements in Lightning, and exchanging ideas about how to make bitcoin more secure and easier to use for everyone. After the presentations, a nomikai follows.
 
 {% embed url="https://www.meetup.com/tokyo-bitcoin-hackers/" %}
@@ -202,10 +203,6 @@ Join us for DC BitDevs. We'll talk about what's new with bitcoin development and
 
 {% embed url="https://dcbitdevs.org/" %}
 
-
-
-
-
 **Abuja**: [https://twitter.com/BitDevsAbuja](https://twitter.com/BitDevsAbuja)
 
 **Boise, ID**: [https://twitter.com/BoiseBitDevs](https://twitter.com/BoiseBitDevs)
@@ -220,5 +217,4 @@ Join us for DC BitDevs. We'll talk about what's new with bitcoin development and
 
 
 
-
-
+test 4
