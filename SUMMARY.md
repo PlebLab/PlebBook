@@ -4,7 +4,7 @@
 
 ## Collaboration
 
-* [Communities test](collaboration/communities/README.md)
+* [Communities](collaboration/communities/README.md)
   * [Co-Working Spaces](collaboration/communities/co-working-spaces.md)
   * [Hackerspaces](collaboration/communities/hackerspaces.md)
   * [Community Hubs](collaboration/communities/community-hubs.md)
