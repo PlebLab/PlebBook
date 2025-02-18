@@ -66,11 +66,11 @@ Bitshala is an education initiative (or a pathshala) led by Indian bitcoiners to
 
 {% embed url="https://www.youtube.com/@BTCSessions" %}
 
-## Chaincode Labs - Bitcoin Protocol Development Curriculum&#x20;
+## Chaincode Labs - Bitcoin Protocol Development Curriculum
 
 There are two portions to this curriculum:
 
-1 - Study Groups designed to provide grouped subjects that you can either complete bookclub style or alone. \
+1 - Study Groups designed to provide grouped subjects that you can either complete bookclub style or alone.\
 2 - Bitcoin Syllabus a collection of resources grouped by subjects.
 
 {% embed url="https://github.com/chaincodelabs/bitcoin-curriculum" %}
@@ -85,16 +85,13 @@ Once a week for 90 minutes, meet with fellow developers, challenge yourself, and
 
 Training the next generation of Bitcoin and Lightning Developers in El Salvador.
 
-[https://twitter.com/cuboplus](https://twitter.com/cuboplus)\
-
+[https://twitter.com/cuboplus](https://twitter.com/cuboplus)\\
 
 ## Emeralize
 
 Emeralize is where you can learn, create, and earn ⚡️ with their platform. They have built an educational marketplace where you can buy and sell educational resources for Bitcoin. Discover new content and learn.
 
 {% embed url="https://emeralize.app/marketplace/" %}
-
-
 
 ## High Level Bitcoin with SuperTestNet
 
@@ -135,12 +132,12 @@ Master Nostr Protocol in 2023! Construct resilient social networks using cryptog
 
 Learn Lightning Development! Build lightning apps, projects using HTML, CSS, Javascript, LNbits, React & more!
 
-√ Basic course intro to developing on bitcoin and lightning. Learning \
-√ HTML basics an important first step in your web development journey. √ Learning the fundamentals of CSS into digestible, easy to understand \
-√ pieces. Learn how to use JavaScript — a powerful and flexible programming language for adding website interactivity. \
-√ Learn how to use LNbits, a lightning wallet and account system. \
-√ Learn how to setup and create your own development environment. \
-√ Learn the fundamental to building any React app. \
+√ Basic course intro to developing on bitcoin and lightning. Learning\
+√ HTML basics an important first step in your web development journey. √ Learning the fundamentals of CSS into digestible, easy to understand\
+√ pieces. Learn how to use JavaScript — a powerful and flexible programming language for adding website interactivity.\
+√ Learn how to use LNbits, a lightning wallet and account system.\
+√ Learn how to setup and create your own development environment.\
+√ Learn the fundamental to building any React app.\
 √ Learn how to build your own lightning wallet.
 
 {% embed url="https://www.udemy.com/course/pleblabaustin/" %}
@@ -150,6 +147,12 @@ Learn Lightning Development! Build lightning apps, projects using HTML, CSS, Jav
 A scrappy group of plebdevs focused on Bitcoin/Lightning app development. Let's level up together!
 
 {% embed url="https://www.youtube.com/@PlebDevs/videos" %}
+
+{% embed url="https://plebdevs.com/" %}
+
+
+
+
 
 ## PlebLab Workshops
 

@@ -30,7 +30,7 @@ There are many ways to get involved in the fast-growing Bitcoin and Lightning co
 
 ## Learn By Coding
 
-In the spirit of Free and Open-Source Software (FOSS), we see the need for an entry-level builder hub, a haven for compelling builder content and invaluable resources. True to the predecessors of our field, all elements presented here are open-source, welcoming your enhancements and augmentations, embodying the ethos of Bitcoin.&#x20;
+In the spirit of Free and Open-Source Software (FOSS), we see the need for an entry-level builder hub, a haven for compelling builder content and invaluable resources. True to the predecessors of our field, all elements presented here are open-source, welcoming your enhancements and augmentations, embodying the ethos of Bitcoin.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><strong>Documentation &#x26; Guides</strong></td><td></td><td><a href="learn-by-coding/documentation-and-guides.md">documentation-and-guides.md</a></td><td><a href=".gitbook/assets/docs &#x26; guides (1) (1).jpg">docs &#x26; guides (1) (1).jpg</a></td></tr><tr><td></td><td><strong>Libraries</strong></td><td></td><td><a href="learn-by-coding/libraries.md">libraries.md</a></td><td><a href=".gitbook/assets/libraries.jpg">libraries.jpg</a></td></tr><tr><td></td><td><strong>APIs</strong></td><td></td><td><a href="learn-by-coding/apis.md">apis.md</a></td><td><a href=".gitbook/assets/apis.jpg">apis.jpg</a></td></tr><tr><td></td><td><strong>Kits</strong></td><td></td><td><a href="learn-by-coding/kits.md">kits.md</a></td><td><a href=".gitbook/assets/kits.jpg">kits.jpg</a></td></tr><tr><td></td><td><strong>Nodes</strong></td><td></td><td><a href="learn-by-coding/nodes.md">nodes.md</a></td><td><a href=".gitbook/assets/nodes.jpg">nodes.jpg</a></td></tr><tr><td></td><td><strong>Wallets</strong></td><td></td><td><a href="learn-by-coding/wallets.md">wallets.md</a></td><td><a href=".gitbook/assets/wallets.jpg">wallets.jpg</a></td></tr><tr><td></td><td><strong>Other Tools</strong></td><td></td><td><a href="learn-by-coding/other-tools.md">other-tools.md</a></td><td><a href=".gitbook/assets/other tools.jpg">other tools.jpg</a></td></tr></tbody></table>
 
@@ -39,7 +39,5 @@ In the spirit of Free and Open-Source Software (FOSS), we see the need for an en
 
 Help us make PlebBook better: these docs are a community effort. [Let us know](learn-by-coding/submit-a-website.md) if you see mistakes, room for improvement, or new opportunities to help Bitcoin developers.
 {% endhint %}
-
-
 
 <figure><img src=".gitbook/assets/powered-by-pleb-lab-base-58.png" alt="" width="188"><figcaption></figcaption></figure>

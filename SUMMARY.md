@@ -12,7 +12,7 @@
   * [Online Meetings](collaboration/communities/online-meetings.md)
   * [Online Discussions](collaboration/communities/online-discussions.md)
   * [Other Technical Meetups](collaboration/communities/other-technical-meetups.md)
-  * [Developers to follow](collaboration/communities/developers-to-follow.md)
+  * [Developers to Follow](collaboration/communities/developers-to-follow.md)
 * [Jobs, Hackathon & Bounties](collaboration/jobs-hackathon-and-bounties/README.md)
   * [Jobs](collaboration/jobs-hackathon-and-bounties/jobs.md)
   * [Bounties](collaboration/jobs-hackathon-and-bounties/bounties.md)

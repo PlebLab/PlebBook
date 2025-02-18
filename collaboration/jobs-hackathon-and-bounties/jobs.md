@@ -5,7 +5,13 @@ coverY: 93.49768303985171
 
 # Jobs
 
-Bitcoiner Jobs
+## Bitcoin Jobs
+
+Specialized job platform that connects employers and professionals in the Bitcoin industry.
+
+{% embed url="https://bitcoinjobs.com/" %}
+
+## Bitcoiner Jobs
 
 Bitcoiner Jobs is the leading career site helping to build the emerging Bitcoin industry and the careers of Bitcoiners within it.
 
@@ -38,6 +44,3 @@ We are building a team that is passionate about bitcoin, cryptography, decentral
 Trammell Venture Partners is a Venture Capital firm operating at the vanguard of decentralized crypto technology. Along with our founders, we share a set of core values that guide our work, approach, and philosophy.
 
 {% embed url="https://tvp.fund/jobs/" %}
-
-###
-
