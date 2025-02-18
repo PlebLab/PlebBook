@@ -19,7 +19,7 @@ layout:
 
 # Grants and Donations
 
-## Bitcoin Donation Portal&#x20;
+## Bitcoin Donation Portal
 
 Support bitcoin developers so they can focus on building our future.
 
@@ -58,6 +58,12 @@ The Gemini Opportunity Fund is a fund focused on making Bitcoin more scalable, s
 In 2020, the Human Rights Foundation launched a fund to support software developers who are making the Bitcoin network more private, decentralized, and resilient so that it can better serve as a financial tool for human rights activists, civil society organizations, and journalists around the world.
 
 {% embed url="https://hrf.org/devfund" %}
+
+## Kraken Grants
+
+Provides funding to open-source developers contributing to cryptocurrencies, including Bitcoin.
+
+{% embed url="https://www.kraken.com/features/grants" %}
 
 ## OpenSats
 
@@ -98,16 +104,3 @@ Empowering open-source Bitcoin builders in Brazil. Vinteum is a non-profit Bitco
 {% embed url="https://vinteum.org/" %}
 
 ##
-
-
-
-
-
-
-
-
-
-
-
-
-
