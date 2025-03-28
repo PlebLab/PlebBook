@@ -47,12 +47,17 @@ Learning Bitcoin alone can be a daunting journey, join our cohort and find your 
 
 {% embed url="https://discord.com/invite/STeQFVEWf9/" %}
 
-
 ## Core Lightning Community
 
 Whether you're a developer, node runner, or just interested in Lightning tech, this is the place to connect and have meaningful conversations. Ask a burning question, discuss latest developments, or share your knowledge and insights. The floor is yours.
 
 {% embed url="https://community.corelightning.org/home" %}
+
+## Delving Bitcoin
+
+"A place to dig deep into Bitcoin." 
+
+{% embed url="https://delvingbitcoin.org" %}
 
 ## Fedimint
 
@@ -108,13 +113,15 @@ Stratum V2 is the next generation protocol for pooled mining. It increases secur
 
 ## Other Online Discussions
 
+[**bitcoin-core-dev IRC**](https://webchat.freenode.net/#bitcoin-dev)
+
+[**Bitcoin-dev Mailing List**](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
+
 [**Lightning Network Discord**](https://discordapp.com/invite/sm2rfS7)&#x20;
 
 [**Lightning-dev Mailing List**](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
 
 [**Lightning-dev Libera**](https://web.libera.chat/#lightning-dev)
-
-[**Bitcoin-dev Mailing List**](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
 
 [**The Lightning-dev Mailing List**](https://lists.linuxfoundation.org/pipermail/lightning-dev/)
 

@@ -49,6 +49,12 @@ LNPay is a Lightning Network solutions, software, and implementation partner. Th
 
 {% embed url="https://www.lnpay.co/" %}
 
+### Mempool.space API
+
+Mempool.space is the best mempool explorer out there. It also exposes an Esplora API that anyone can use.
+
+{% embed url="https://mempool.space/docs/api/rest" %}
+
 ### WebLN
 
 Provides a standardized API for Lightning Network interactions within web applications, enabling easy integration for browser-based services.

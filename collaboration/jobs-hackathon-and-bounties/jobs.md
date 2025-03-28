@@ -5,6 +5,12 @@ coverY: 93.49768303985171
 
 # Jobs
 
+# Bipa
+
+Bipa is a Brazillian digital bank with Bitcoin and USDT support.
+
+{% embed url="https://bipa.inhire.app/vagas/" %}
+
 ## Bitcoin Jobs
 
 Specialized job platform that connects employers and professionals in the Bitcoin industry.

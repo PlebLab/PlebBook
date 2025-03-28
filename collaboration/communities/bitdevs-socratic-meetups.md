@@ -41,6 +41,10 @@ BitDevs Berlin is a local community for those interested in discussing and parti
 
 {% embed url="https://www.meetup.com/bob-space-community-events/" %}
 
+### Belo Horizonte
+
+{% embed url="https://bhbitdevs.org/" %}
+
 ### Berlin
 
 BitDevs Bangkok is a free and open event running each first Wednesday from 6.30 pm onwards. Each meetup is led by a panel of active Bitcoin contributors, but audience participation is encouraged for a bidirectional exploration of current topics in the Bitcoin ecosystem. All levels of technical ability and familiarity with Bitcoin are encouraged to come and participate. We’re here to discuss the state of the network from fundamentals up.
@@ -53,17 +57,31 @@ Boston BitDevs is a Bitcoin-focused, technical meetup. Like all worldwide BitDev
 
 {% embed url="https://bostonbitdevs.org/" %}
 
+### Brasília
+
+Brasília BitDevs is a technical Bitcoin-only meetup held at Universidade de Brasília, Brasil.
+
+{% embed url="https://bitdevs.bsb.br/" %}
+
 ### Chicago
 
 The purpose of this meeting is to discuss topics of interest to developers working on software that touches bitcoin in some way. Free and open debate is critical to the health of the bitcoin community. We insist that attendees do not record audio, video, or still images of the meetup. Furthermore, please do not attribute remarks made in the meetup to individuals.
 
 {% embed url="https://chibitdevs.org/" %}
 
+### Curitiba
+
+{% embed url="https://curitibabitdevs.org/" %}
+
 ### Denver
 
 Denver BitDevs monthly recurring meetup and community for those interested in discussing and participating in the research and development of Bitcoin and related protocols. You can be well-versed with or new to the topics. Meetups are free, typically occur on the first Thursday of each month, and all are welcome. Be advised: discussion is more technical-focused.
 
 {% embed url="https://www.meetup.com/denver-bitdevs/" %}
+
+### Florianópolis
+
+{% embed url="https://floripabitdevs.org/" %}
 
 ### Honolulu
 
@@ -142,6 +160,10 @@ The Monthly Perth BitDevs at Phat Brew in City West. All bitcoin, no shitcoins. 
 Portland BitDevs is strictly focused on Bitcoin & the Lightning Network! With that said, this meetup is for EVERYONE of all Bitcoin knowledge levels (technical & general).
 
 {% embed url="https://www.meetup.com/portlandbitdevs/" %}
+
+### Porto Alegre
+
+{% embed url="https://poabitdevs.org/" %}
 
 ### Triangle BitDevs (Raleigh / Durham / Chapel Hill)
 

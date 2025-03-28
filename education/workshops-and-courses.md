@@ -42,6 +42,12 @@ Learn Bitcoin development from experts around the community!
 
 {% embed url="https://www.youtube.com/@bitcoindevelopers/videos" %}
 
+## Bitcoin Dev Launchpad
+
+A program tailored to accelerate the learning process of developers so they can contribute to BOSS projects.
+
+{% embed url="https://vinteum.org/bdl/" %}
+
 ## Bitcoin Programming 101 with Ivan Liljeqvist
 
 Learn how to program the world’s largest open source blockchain - Bitcoin. We will go through Script, bitcoins own programming language and look at how it works from the ground up. We will start by learning about all the different tools you need to interact and build with bitcoin. Then we will look at stacks and stack based programming languages. We will look at how you can script your own, custom bitcoin transactions and how you can build timelocks, multisig transaction and much much more.
