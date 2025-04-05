@@ -17,11 +17,33 @@ Bitcoin Grove is more than just a community - we're a family of Bitcoin enthusia
 
 {% embed url="https://visionary-donut-b8a674.netlify.app/" %}
 
+## Bitcoin Park - Austin, TX
+
+{% embed url="https://www.meetup.com/bitcoin-park-austin/" %}
+
 ## Bitcoin Park - Nashville, TN
 
 A community supported campus in Nashville focused on grassroots bitcoin adoption and a home for bitcoiners to work, learn, collaborate, and build.
 
 {% embed url="https://bitcoinpark.com/" %}
+
+## BOB Space - Krung Thep, Thailand
+
+A Bitcoin only hatchery, incubator and co-working space in the heart of Krung Thep, Thailand. Supporting Bitcoin education, adoption and advocating freedom tech.
+
+{% embed url="https://www.bobspaces.net/" %}
+
+## Bitshala Bitspace - Bangalore, India
+
+India's First Bitcoin FOSS Hackerspace to work, learn, and have a ton of fun!
+
+{% embed url="https://bitshala.org/bitspace/" %}
+
+## Casa21 - São Paulo, Brazil
+
+A Bitcoin hackerhouse based in São Paulo, Brazil powered by Vinteum. Holds monthly BitDevs, workshops and much more!
+
+{% embed url="https://x.com/casavinteum/" %}
 
 ## Casa Del Bitcoin
 
@@ -42,6 +64,12 @@ Lugano’s Plan ₿ is a joint initiative between the City of Lugano and Tether 
 The plan will scale blockchain and Bitcoin throughout the city to positively impact all facets of daily life for the residents of Lugano. From small transactions with local merchants to larger efforts – such as paying annual taxes – blockchain will serve as the foundation for the city’s financial exchanges.
 
 {% embed url="https://planb.lugano.ch/" %}
+
+## Presidio Bitcoin - San Francisco, California
+
+Presidio Bitcoin is the Bay Area’s first dedicated bitcoin co-working and events space.
+
+{% embed url="https://www.presidiobitcoin.org/" %}
 
 ## Real Bedford
 

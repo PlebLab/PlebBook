@@ -65,6 +65,12 @@ This will be a gathering of subject matter experts without a speaker line-up. Mu
 
 {% embed url="https://btcazores.com/" %}
 
+## CoreDev
+
+Invitation only developer events for hacking together on Bitcoin Core and related projects.
+
+{% embed url="https://coredev.tech/" %} 
+
 ## MIT BITCOIN EXPO
 
 Starting as a small club of MIT students interested in a technology that wasn't covered in classes, we've grown to become the longest-running university student-led crypto conference in the world. Our conference prides itself on being a technical event that features protocol-level talks and panel discussions from regulators, scientists, developers, researchers, and others who are passionate about furthering our understanding of what's possible in crypto now, and what may be possible in the future.

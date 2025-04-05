@@ -33,6 +33,8 @@ coverY: 98.9481000926784
 
 [**Burak**](https://twitter.com/brqgoo) - Burak started in Bitcoin by building around mining, payments, wallets, developer tools, and Bitcoin-style smart contracts. After his years-long covenant research and development on Liquid, he is now working on alternative approaches to addressing the UX issues that we face on Lightning today.
 
+[**Calle**](https://x.com/callebtc) - Calle is the creator of Cashu, a bitcoin-powered implementation of the e-cash concept.
+
 [**chill**](https://github.com/chill117) - Co-creator of the Bleskomat next generation Bitcoin ATM hardware project.
 
 [**Chimezie Chuta**](https://github.com/chuta) - Developer of SpaceBox -a solar powered full Bitcoin Lightning Node run-away kit.
@@ -55,9 +57,11 @@ coverY: 98.9481000926784
 
 [**Daniel Buchner**](https://github.com/csuwildcat) - Committed to advancing decentralized identity and app capabilities for the Web platform to enable a more personal, private, empowering digital world for individuals.
 
-[**dergigi**](https://github.com/dergigi) - Contributes to various bitcoin-only projects and wrote an open-source book about what I’ve learned.
-
 [**Dan Janosik**](https://github.com/janoside) - Part-time open-source BTC work.
+
+[**Davidson Souza**](https://x.com/Erik17192799) - Creator of Floresta, a Utreexo-powered full-node implementation.
+
+[**dergigi**](https://github.com/dergigi) - Contributes to various bitcoin-only projects and wrote an open-source book about what I’ve learned.
 
 [**Devin Bileck**](https://github.com/devinbileck) - Contributes to the Bisq network including running infrastructure nodes.
 

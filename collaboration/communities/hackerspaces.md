@@ -18,6 +18,11 @@ Co-working for bitcoin startups on the Atlanta Beltline. The city of Atlanta has
 
 {% embed url="https://www.bobspaces.net/" %}
 
+## Casa21 - São Paulo, Brazil
+
+A Bitcoin hackerhouse based in São Paulo, Brazil, powered by Vinteum. Holds monthly BitDevs, workshops and much more!
+
+{% embed url="https://x.com/casavinteum" %}
 
 ## HUB21 - Belgrade, Serbia
 

@@ -23,8 +23,6 @@ List of events on the Devpost website designed to bring together developers, des
 
 {% embed url="https://devpost.com/hackathons?search=bitcoin+DevPost+Bitcoin+Hackathons" %}
 
-
-
 ## MIT BITCOIN EXPO
 
 Starting as a small club of MIT students interested in a technology that wasn't covered in classes, we've grown to become the longest-running university student-led crypto conference in the world. Our conference prides itself on being a technical event that features protocol-level talks and panel discussions from regulators, scientists, developers, researchers, and others who are passionate about furthering our understanding of what's possible in crypto now, and what may be possible in the future.
@@ -42,6 +40,12 @@ Come for 2 days of hacking, mentorship, workshops, and discussions on how to con
 Competitive program designed to support and showcase Bitcoin developers and entrepreneurs providing mentorship, exposure, and collaboration opportunities within the Bitcoin ecosystem, culminating in a competition where the top builder takes home a significant Bitcoin prize.
 
 {% embed url="https://www.topbuilder.dev/" %}
+
+## SatsHack
+
+SatsHack is the hackaton that takes place at SatsConf.
+
+{% embed url="https://eventornado.com/event/satshack#home" %}
 
 ## #SATSx Hackathon
 

@@ -41,6 +41,12 @@ Informal discussions on Bitcoin, the Lightning Network, the Nostr protocol, and 
 
 {% embed url="https://www.meetup.com/bitcoin-lightning-and-nostr-plebs/" %}
 
+## MIT Bitcoin Expo
+
+Technical Bitcoin event held every year at Massachusetts Institute of Technology.
+
+{% embed url="https://mitbtcexpo.org/" %}
+
 ## San Francisco Lightning Network Developers
 
 A group for developers building on the Lightning Network or interested in learning about building on the Lightning Network in the San Francisco Bay Area. We'll discuss the latest developments and proposals to the Lightning Network, as well new applications and use cases for the Lightning Network.
