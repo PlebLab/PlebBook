@@ -1,0 +1,17 @@
+services:
+  caddy:
+    image: caddy:2.8-alpine
+    container_name: plebbook-caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./_site:/srv:ro
+      - ./ops/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:

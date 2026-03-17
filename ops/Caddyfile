@@ -1,0 +1,5 @@
+plebbook.com, www.plebbook.com {
+  root * /srv
+  encode zstd gzip
+  file_server
+}

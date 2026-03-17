@@ -1,0 +1,14 @@
+{
+  "name": "plebbook-selfhost",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted static build for PlebBook",
+  "scripts": {
+    "prepare:content": "bash scripts/prepare-content.sh",
+    "build": "bash scripts/build-site.sh",
+    "serve": "npx -y http-server _site -p 8080"
+  },
+  "devDependencies": {
+    "honkit": "^6.1.6"
+  }
+}
