@@ -19,6 +19,12 @@ Boltz exposes a RESTful HTTP API that can be used to query information like supp
 
 {% embed url="https://docs.boltz.exchange/api" %}
 
+### BTCPay Server Greenfield API
+
+BTCPay Server's Greenfield API enables merchants and developers to automate invoices, stores, payment methods, and integrations for Bitcoin payments.
+
+{% embed url="https://docs.btcpayserver.org/API/Greenfield/v1/" %}
+
 
 
 
@@ -54,6 +60,12 @@ LNPay is a Lightning Network solutions, software, and implementation partner. Th
 Mempool.space is the best mempool explorer out there. It also exposes an Esplora API that anyone can use.
 
 {% embed url="https://mempool.space/docs/api/rest" %}
+
+### Esplora API (Blockstream)
+
+Esplora API is a widely used REST interface for Bitcoin blockchain and mempool data used by explorers, wallets, and backend services.
+
+{% embed url="https://github.com/Blockstream/esplora/blob/master/API.md" %}
 
 ### WebLN
 

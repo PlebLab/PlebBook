@@ -47,6 +47,12 @@ Bitcoin++ is a developer-focused conference series. We place a heavy emphasis on
 
 {% embed url="https://www.youtube.com/@btcplusplus/videos" %}
 
+## Scaling Bitcoin
+
+Scaling Bitcoin is a technical conference series focused on research and engineering discussions around Bitcoin protocol and infrastructure scalability.
+
+{% embed url="https://scalingbitcoin.org/" %}
+
 ## Bit Block Boom: Workshop Day
 
 Network with fellow Bitcoiners in Austin, Texas. We talk about Bitcoin, Bitcoin, and more Bitcoin. The BitBlockBoom! is a bitcoincConference. To put it in simple terms this conference is only for people who are interested in Bitcoin. Attendees range from people highly known and heavily involved in Bitcoin, to people who are just trying to learn what bitcoin is all about. You will not find anyone shilling shitcoins or NFTs. This is a True Bitcoin Conference. BitBlockBoom has created a wonderful atmosphere to meet and discuss bitcoin with the speakers and other bitcoiners.

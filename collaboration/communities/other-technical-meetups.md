@@ -53,6 +53,12 @@ Bitcoin Park hosts recurring Austin meetups and community events for builders an
 
 {% embed url="https://www.meetup.com/bitcoin-park-austin/" %}
 
+## Bitcoin Core PR Review Club
+
+Global technical meetup format for reviewing Bitcoin Core pull requests with contributors and new reviewers.
+
+{% embed url="https://bitcoincore.reviews/" %}
+
 ## Chicago Nostr Meetup
 
 This meetup was formed with the goal of bringing together like-minded individuals who share a passion for Nostr. We hold regular meetings where we discuss the latest developments in Nostr, and share our ideas and experiences. The goal is to onboard more people to nostr and spread the message.

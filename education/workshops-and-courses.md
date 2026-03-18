@@ -48,6 +48,12 @@ A program tailored to accelerate the learning process of developers so they can 
 
 {% embed url="https://vinteum.org/bdl/" %}
 
+## Bitcoin Core PR Review Club
+
+A recurring technical review workshop where contributors walk through real Bitcoin Core pull requests and discuss architecture, testing, and review process.
+
+{% embed url="https://bitcoincore.reviews/" %}
+
 ## Bitcoin Programming 101 with Ivan Liljeqvist
 
 Learn how to program the world’s largest open source blockchain - Bitcoin. We will go through Script, bitcoins own programming language and look at how it works from the ground up. We will start by learning about all the different tools you need to interact and build with bitcoin. Then we will look at stacks and stack based programming languages. We will look at how you can script your own, custom bitcoin transactions and how you can build timelocks, multisig transaction and much much more.
@@ -86,6 +92,12 @@ There are two portions to this curriculum:
 Once a week for 90 minutes, meet with fellow developers, challenge yourself, and receive guidance from current contributors. Weekly prep will take anywhere from 4-6 hours. Groups will have anywhere from 10-25 participants with rotating discussion groups of 3-5. Participants share a dedicated channel on the Chaincode Learning Slack workspace and those who complete the program are invited to our seminar alum community. Chaincode curates each cohort, arranges guest speakers, and provides ongoing support throughout the seminar. We do not provide moderators for small group discussions, but assign deputies to ensure an enriching experience. We expect everyone to attend every week. Participants are allotted one absence during the program. If you are absent a second time, we ask you withdraw from the group. We are happy to welcome you back in the future.
 
 {% embed url="https://learning.chaincode.com/#seminars" %}
+
+## Bitcoin Optech Workshops
+
+Hands-on technical workshops for engineers integrating Bitcoin and Lightning in production systems.
+
+{% embed url="https://bitcoinops.org/workshops" %}
 
 ## Cubo+
 
