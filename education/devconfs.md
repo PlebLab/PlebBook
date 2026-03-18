@@ -93,7 +93,7 @@ Come for 2 days of hacking, mentorship, workshops, and discussions on how to con
 
 PlebLab Startup Day is an ideal platform for startups to pitch their ideas to a diverse audience of developers, investors, and builders. Each participating startup has an hour to explain and showcase its concept, fostering a collaborative and supportive atmosphere.
 
-{% embed url="https://www.meetup.com/pleb-lab/events/294438897/" %}
+{% embed url="https://www.pleblab.dev/startup-day" %}
 
 ## TABConf
 
@@ -109,6 +109,6 @@ An intimate two-day summit focused on bitcoin and lightning.
 
 ## AI Startup Rodeo
 
-AI Startup Rodeo event page and registration.
+AI Startup Rodeo is a founder-and-builder event focused on AI startup demos, practical workshops, and ecosystem collaboration. It brings together technical builders, operators, and investors to share what they are shipping and accelerate early-stage products.
 
 {% embed url="https://luma.com/ai-startup-rodeo" %}
