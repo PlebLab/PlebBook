@@ -168,6 +168,14 @@ PlebLab is here to help you learn and grow as a builder. We have weekly workshop
 
 {% embed url="https://www.youtube.com/@pbs_plebs/videos" %}
 
+## PlebTV
+
+PlebTV shares Bitcoin-focused educational content, podcasts, and builder conversations from the Pleb community.
+
+{% embed url="https://www.plebtv.com/" %}
+
+{% embed url="https://www.youtube.com/@PlebTV" %}
+
 ## Programming Blockchain with Jimmy Song
 
 In order to provide the highest quality instruction to potential programming students, we will accept students that we feel have enough of a background in order to successfully get the most out of the class. This will lead to a better classroom experience and much less frustration for all the participants. If chosen, you will be invited to participate in a Programming Blockchain 2-day seminar.
