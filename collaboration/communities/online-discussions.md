@@ -113,7 +113,7 @@ Stratum V2 is the next generation protocol for pooled mining. It increases secur
 
 ## Other Online Discussions
 
-[**bitcoin-core-dev IRC**](https://webchat.freenode.net/#bitcoin-dev)
+[**bitcoin-core-dev IRC (Libera Webchat)**](https://web.libera.chat/#bitcoin-core-dev)
 
 [**Bitcoin-dev Mailing List**](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
 
@@ -135,7 +135,6 @@ Stratum V2 is the next generation protocol for pooled mining. It increases secur
 ###
 
 ###
-
 
 
 

@@ -40,7 +40,7 @@ Everyone is welcome to join and [participate](https://bitcoin.design/contribute)
 
 Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies.
 
-We provide [workshops](https://bitcoinops.org/workshops), [documentation](https://github.com/bitcoinops/scaling-book), [weekly newsletters](https://bitcoinops.org/en/newsletters/), [original research](https://dashboard.bitcoinops.org/), [case studies and announcements](https://bitcoinops.org/en/blog/), [analysis of Bitcoin software and services](https://bitcoinops.org/en/compatibility/), a [podcast](https://bitcoinops.org/en/podcast/), and help facilitate improved relations between businesses and the open source community.
+We provide [workshops](https://bitcoinops.org/workshops), [documentation](https://github.com/bitcoinops/scaling-book), [weekly newsletters](https://bitcoinops.org/en/newsletters/), [topic-focused technical analysis](https://bitcoinops.org/en/topics/), [case studies and announcements](https://bitcoinops.org/en/blog/), [analysis of Bitcoin software and services](https://bitcoinops.org/en/compatibility/), a [podcast](https://bitcoinops.org/en/podcast/), and help facilitate improved relations between businesses and the open source community.
 
 {% embed url="https://bitcoinops.org/" %}
 
@@ -81,4 +81,3 @@ From there, you can help discover, define, and prioritize problems for the commu
 **Who should take part?** Anyone who wants to learn about contributing to LND. All are welcome to come and ask questions!
 
 {% embed url="https://lnd.reviews/" %}
-

@@ -106,3 +106,9 @@ TABConf is an event for building the Bitcoin community, providing education, and
 An intimate two-day summit focused on bitcoin and lightning.
 
 {% embed url="https://www.meetup.com/bitcoinpark/events/291052525/" %}
+
+## AI Startup Rodeo
+
+AI Startup Rodeo event page and registration.
+
+{% embed url="https://luma.com/ai-startup-rodeo" %}
