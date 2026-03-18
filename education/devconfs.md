@@ -107,8 +107,8 @@ An intimate two-day summit focused on bitcoin and lightning.
 
 {% embed url="https://www.meetup.com/bitcoinpark/events/291052525/" %}
 
-## Bitcoin Builders Club Conference Calendar
+## AI Startup Rodeo
 
-Conference and event calendar for Bitcoin Builders Club gatherings and ecosystem events.
+AI Startup Rodeo event page and registration.
 
-{% embed url="https://luma.com/calendar/manage/cal-HT04ZBX7oyRQvtI" %}
+{% embed url="https://luma.com/ai-startup-rodeo" %}
