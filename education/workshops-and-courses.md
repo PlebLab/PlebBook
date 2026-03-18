@@ -180,6 +180,12 @@ PlebLab is here to help you learn and grow as a builder. We have weekly workshop
 
 {% embed url="https://www.youtube.com/@pbs_plebs/videos" %}
 
+## PlebLab Startup School
+
+PlebLab Startup School helps founders and builders go from idea to launch with practical startup execution, mentorship, and build-in-public workflows.
+
+{% embed url="https://ss.pleblab.com/startup-school" %}
+
 ## PlebTV
 
 PlebTV shares Bitcoin-focused educational content, podcasts, and builder conversations from the Pleb community.
