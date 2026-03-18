@@ -41,17 +41,25 @@ Mobile wallet designed for advanced users, allowing full control over a Bitcoin 
 
 {% embed url="https://github.com/Fonta1n3/FullyNoded" %}
 
+## LNbits
+
+Free and open-source Lightning wallet and accounts system. LNbits can run on top of any Lightning funding source. It supports LND, CLN, Eclair, Spark, LNpay, OpenNode, LightningTipBot, and with more being added regularly.
+
+{% embed url="https://github.com/lnbits/lnbits" %}
+
 ## Muun Wallet
 
 Mobile Bitcoin and Lightning wallet aiming for simplicity and ease of use, featuring seamless Lightning Network integration for fast and low-fee transactions.
 
 {% embed url="https://github.com/muun" %}
 
-## LNbits
+## Phoenix Wallet
 
-Free and open-source Lightning wallet and accounts system. LNbits can run on top of any Lightning funding source. It supports LND, CLN, Eclair, Spark, LNpay, OpenNode, LightningTipBot, and with more being added regularly.
+Phoenix is a self-custodial Lightning wallet from ACINQ focused on reliable payments with simple UX and automatic channel management.
 
-{% embed url="https://github.com/lnbits/lnbits" %}
+{% embed url="https://phoenix.acinq.co/" %}
+
+{% embed url="https://github.com/ACINQ/phoenix" %}
 
 ## Sparrow Wallet&#x20;
 
@@ -72,11 +80,3 @@ Mobile Lightning Network wallet that allows you to connect to your own node, pro
 {% embed url="https://getzeus.app/" %}
 
 {% embed url="https://github.com/ZeusLN/zeus" %}
-
-## Phoenix Wallet
-
-Phoenix is a self-custodial Lightning wallet from ACINQ focused on reliable payments with simple UX and automatic channel management.
-
-{% embed url="https://phoenix.acinq.co/" %}
-
-{% embed url="https://github.com/ACINQ/phoenix" %}
