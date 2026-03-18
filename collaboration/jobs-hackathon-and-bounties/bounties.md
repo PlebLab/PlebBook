@@ -5,6 +5,19 @@ coverY: 98.23354958294718
 
 # Bounties
 
+## **Breeze Bounty**
+
+Breez is offering bounties for the tasks listed below. Relevant PRs must be reviewed and merged before developers can claim the bounty listed.
+
+{% embed url="https://doc.breez.technology/Bounties.html" %}
+
+## **Other Bounties**
+
+**Bitcoin Bounties**: https://bitcoinbounties.org/
+
+**Bitcoin ACKs**: https://bitcoinacks.com/
+
+**Nostr Bounties**: https://bountsr.org/
 ## Alby
 
 Alby has bounties for coding and non-coding related topics.
@@ -16,12 +29,6 @@ Alby has bounties for coding and non-coding related topics.
 Tax Deductible Bug Bounties for Bitcoin. Incentivize the research, development, and vetting of Bitcoin Improvement Proposals by implementing a system for crowdsourcing tax-deductible bug bounties, and distributing them to bounty winners.
 
 {% embed url="https://bipbounty.org/" %}
-
-## **Breeze Bounty**
-
-Breez is offering bounties for the tasks listed below. Relevant PRs must be reviewed and merged before developers can claim the bounty listed.
-
-{% embed url="https://doc.breez.technology/Bounties.html" %}
 
 ## Fundsolvr
 
@@ -72,10 +79,3 @@ You can view all bounties on the recent page by selecting the 'bounties' filter.
 
 {% embed url="https://stacker.news/recent/bounties" %}
 
-## **Other Bounties**
-
-**Bitcoin Bounties**: https://bitcoinbounties.org/
-
-**Bitcoin ACKs**: https://bitcoinacks.com/
-
-**Nostr Bounties**: https://bountsr.org/

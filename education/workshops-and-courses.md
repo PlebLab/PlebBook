@@ -11,14 +11,6 @@ THE MASTERCLASS to understand Bitcoin – you will learn the essential knowledge
 
 {% embed url="https://www.21lectures.com/" %}
 
-## Base58⛓️🔓 online and in-person courses
-
-Base58⛓️🔓 is a bitcoin protocol school. Our online and in-person courses are the perfect starting place for technical beginners looking to scratch the surface to even the most experienced devs looking to challenge themselves with a dive deep into the bitcoin protocol itself. Wherever you are on your journey into the technical side of bitcoin, we're here to level you up.
-
-{% embed url="https://base58.info/#courses" %}
-
-{% embed url="https://www.youtube.com/@Base58btc/videos" %}
-
 ## Base58⛓️🔓 Bitcoin Developer Basics: Transactions, Scripts + SegWit
 
 Start your bitcoin dev journey with bitcoin transactions, scripts, and SegWit
@@ -36,11 +28,19 @@ Start your bitcoin dev journey with bitcoin transactions, scripts, and SegWit
 
 {% embed url="https://www.udemy.com/course/base58-bitcoin-transactions-one/" %}
 
-## Bitcoin Developers on YouTube
+## Base58⛓️🔓 online and in-person courses
 
-Learn Bitcoin development from experts around the community!
+Base58⛓️🔓 is a bitcoin protocol school. Our online and in-person courses are the perfect starting place for technical beginners looking to scratch the surface to even the most experienced devs looking to challenge themselves with a dive deep into the bitcoin protocol itself. Wherever you are on your journey into the technical side of bitcoin, we're here to level you up.
 
-{% embed url="https://www.youtube.com/@bitcoindevelopers/videos" %}
+{% embed url="https://base58.info/#courses" %}
+
+{% embed url="https://www.youtube.com/@Base58btc/videos" %}
+
+## Bitcoin Core PR Review Club
+
+A recurring technical review workshop where contributors walk through real Bitcoin Core pull requests and discuss architecture, testing, and review process.
+
+{% embed url="https://bitcoincore.reviews/" %}
 
 ## Bitcoin Dev Launchpad
 
@@ -48,15 +48,23 @@ A program tailored to accelerate the learning process of developers so they can 
 
 {% embed url="https://vinteum.org/bdl/" %}
 
+## Bitcoin Developers on YouTube
+
+Learn Bitcoin development from experts around the community!
+
+{% embed url="https://www.youtube.com/@bitcoindevelopers/videos" %}
+
+## Bitcoin Optech Workshops
+
+Hands-on technical workshops for engineers integrating Bitcoin and Lightning in production systems.
+
+{% embed url="https://bitcoinops.org/workshops" %}
+
 ## Bitcoin Programming 101 with Ivan Liljeqvist
 
 Learn how to program the world’s largest open source blockchain - Bitcoin. We will go through Script, bitcoins own programming language and look at how it works from the ground up. We will start by learning about all the different tools you need to interact and build with bitcoin. Then we will look at stacks and stack based programming languages. We will look at how you can script your own, custom bitcoin transactions and how you can build timelocks, multisig transaction and much much more.
 
 {% embed url="https://ivanontech.teachable.com/p/bitcoin-programming" %}
-
-## Bolt.Fun
-
-{% embed url="https://www.youtube.com/@BOLTFUN" %}
 
 ## Bitshala
 
@@ -67,6 +75,10 @@ Bitshala is an education initiative (or a pathshala) led by Indian bitcoiners to
 ## Blockstream
 
 {% embed url="https://www.youtube.com/@Blockstream" %}
+
+## Bolt.Fun
+
+{% embed url="https://www.youtube.com/@BOLTFUN" %}
 
 ## BTC Sessions
 
@@ -105,15 +117,27 @@ Explore software and hardware projects for bitcoin, news related to bitcoin, and
 
 {% embed url="https://www.youtube.com/channel/UCQx8FNjPZ8JO9y21K3bYg0g/videos" %}
 
-## Lightning Labs
-
-[https://www.youtube.com/@LightningLabs](https://www.youtube.com/@LightningLabs)
-
 ## Libreria de Satoshi
 
 Una mezcla de seminarios socráticos, clases y talleres para mejorar tus habilidades técnicas.
 
 {% embed url="https://libreriadesatoshi.com/" %}
+
+## Lightning Labs
+
+[https://www.youtube.com/@LightningLabs](https://www.youtube.com/@LightningLabs)
+
+## PlebDevs
+
+A scrappy group of plebdevs focused on Bitcoin/Lightning app development. Let's level up together!
+
+{% embed url="https://www.youtube.com/@PlebDevs/videos" %}
+
+{% embed url="https://plebdevs.com/" %}
+
+
+
+
 
 ## PlebLab NostrDevs: Build a Social Network from Scratch
 
@@ -147,18 +171,6 @@ Learn Lightning Development! Build lightning apps, projects using HTML, CSS, Jav
 √ Learn how to build your own lightning wallet.
 
 {% embed url="https://www.udemy.com/course/pleblabaustin/" %}
-
-## PlebDevs
-
-A scrappy group of plebdevs focused on Bitcoin/Lightning app development. Let's level up together!
-
-{% embed url="https://www.youtube.com/@PlebDevs/videos" %}
-
-{% embed url="https://plebdevs.com/" %}
-
-
-
-
 
 ## PlebLab Workshops
 
@@ -199,6 +211,10 @@ We'll start by diving into the cryptographic algorithms used in Bitcoin and walk
 {% embed url="https://sphinx.chat/for-developers/" %}
 
 ## Spiral
+
+Spiral builds and funds open-source Bitcoin projects and publishes technical talks and engineering content for developers.
+
+{% embed url="https://spiral.xyz/" %}
 
 {% embed url="https://www.youtube.com/@SpiralBTC/videos" %}
 

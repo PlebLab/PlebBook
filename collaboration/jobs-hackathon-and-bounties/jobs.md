@@ -17,17 +17,17 @@ Specialized job platform that connects employers and professionals in the Bitcoi
 
 {% embed url="https://bitcoinjobs.com/" %}
 
-## Bitcoiner Jobs
-
-Bitcoiner Jobs is the leading career site helping to build the emerging Bitcoin industry and the careers of Bitcoiners within it.
-
-{% embed url="https://bitcoinerjobs.com/" %}
-
 ## Bitcoin Talent Co.
 
 We are a group of operators and investors in the Bitcoin ecosystem with deep domain expertise in hyper-growth company building and recruiting.
 
 {% embed url="https://www.bitcointalent.co/" %}
+
+## Bitcoiner Jobs
+
+Bitcoiner Jobs is the leading career site helping to build the emerging Bitcoin industry and the careers of Bitcoiners within it.
+
+{% embed url="https://bitcoinerjobs.com/" %}
 
 ## Braiins
 

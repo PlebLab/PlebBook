@@ -24,18 +24,18 @@ A Bitcoin hackerhouse based in São Paulo, Brazil, powered by Vinteum. Holds mon
 
 {% embed url="https://x.com/casavinteum" %}
 
+## hack.bs - Brescia, Italy
+
+hack.bs is a non-profit cypherpunk hackerspace located in Brescia, Italy. Our mission is to provide a space where people can learn about Bitcoin, technology, open-source, privacy and freedom, and connect with other like-minded individuals. Our office is near the metro stop Vittoria, in Contrada del Cavalletto 24, Brescia. We regularly host workshops, meetups, hackathons and more, open to everybody.
+
+{% embed url="https://hack.bs.it/" %}
+
 ## HUB21 - Belgrade, Serbia
 
 HUB21 is a non-profit organization nestled in the heart of Belgrade, dedicated to fostering education, training, research, and community engagement in the realm of Bitcoin and related technologies. As a central hub for professionals in Bitcoin-focused technical fields, we provide a dynamic environment for members to thrive and spearhead initiatives in bitcoin education and advocacy.
 
 {% embed url="https://hub21.rs/" %}
 
-
-## hack.bs - Brescia, Italy
-
-hack.bs is a non-profit cypherpunk hackerspace located in Brescia, Italy. Our mission is to provide a space where people can learn about Bitcoin, technology, open-source, privacy and freedom, and connect with other like-minded individuals. Our office is near the metro stop Vittoria, in Contrada del Cavalletto 24, Brescia. We regularly host workshops, meetups, hackathons and more, open to everybody.
-
-{% embed url="https://hack.bs.it/" %}
 
 ## PlebLab - Austin, TX
 

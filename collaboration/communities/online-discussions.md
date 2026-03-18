@@ -5,6 +5,20 @@ coverY: 92.07784986098238
 
 # Online Discussions
 
+## [LND Developer Community](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email)
+
+The LND Overview and Developer Guide aims to provide _just_ enough information about LND to enable readers to build applications. It starts with a conceptual review of the Lightning Network, before jumping into the important aspects of working specifically with LND.
+
+[Slack Channel](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email) - [Overview and Developer Guide](https://dev.lightning.community/overview/)
+
+
+
+## [LND Developer Community](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email)
+
+The LND Overview and Developer Guide aims to provide _just_ enough information about LND to enable readers to build applications. It starts with a conceptual review of the Lightning Network, before jumping into the important aspects of working specifically with LND.
+
+[Slack Channel](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email) - [Overview and Developer Guide](https://dev.lightning.community/overview/)
+
 ## Bitcoin Design
 
 The Bitcoin Design Community [Discord](https://discord.gg/K7aQ5PErht) is an open space to discuss and explore everything bitcoin and design. Open standards are part of our foundation, so all of our work can also be found on [Github](https://github.com/BitcoinDesign).
@@ -67,14 +81,6 @@ A modular open source protocol to custody and transact bitcoin in a community co
 
 {% embed url="https://fedimint.org/" %}
 
-## [LND Developer Community](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email)
-
-The LND Overview and Developer Guide aims to provide _just_ enough information about LND to enable readers to build applications. It starts with a conceptual review of the Lightning Network, before jumping into the important aspects of working specifically with LND.
-
-[Slack Channel](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email) - [Overview and Developer Guide](https://dev.lightning.community/overview/)
-
-
-
 ## Lightning Dev Kit (LDK)
 
 Moving forward members in the community should aim to exclusively post new stuff to Discord, while the Slack dies down over the coming weeks/months before officially closing. We believe semi-anonymous participation is an important feature for whatever chat platform we use. A few of the community access Discord via a Matrix bridge that seems to work well. You can join that [here](https://matrix.to/#/#ldk-discord:bitcoin.ninja).
@@ -90,26 +96,6 @@ Click this [invite](https://discord.gg/5AcknnMfBw) to join the Discord.
 Builders from around the world are building awesome things on Bitcoin's second layer. This community is the home for all L2 Builders to gather and help one another build successful products on Liquid. More than content and resources, this is a place to take your skills to the next level by tapping into what others have already figured out. Want to know the best way to begin your journey? You have reached the right place.
 
 {% embed url="https://community.liquid.net/home" %}
-
-## [LND Developer Community](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email)
-
-The LND Overview and Developer Guide aims to provide _just_ enough information about LND to enable readers to build applications. It starts with a conceptual review of the Lightning Network, before jumping into the important aspects of working specifically with LND.
-
-[Slack Channel](https://lightningcommunity.slack.com/join/shared\_invite/zt-1y3eup1mc-jDLCarR\~hOwI6X4un5Yz\_g#/shared-invite/email) - [Overview and Developer Guide](https://dev.lightning.community/overview/)
-
-## PlebDevs Discord
-
-A scrappy group of plebdevs focused on Bitcoin/Lightning app development. Level up together!
-
-{% embed url="https://discord.gg/MqwvXfTBwt" %}
-
-## Stratum V2
-
-Stratum V2 is the next generation protocol for pooled mining. It increases security, makes data transfers more efficient, and reduces mining infrastructure requirements. It also introduces three new sub-protocols that let miners select transaction sets and improve decentralization.
-
-[Join Discord](https://discord.gg/fsEW23wFYs)
-
-{% embed url="https://stratumprotocol.org/" %}
 
 ## Other Online Discussions
 
@@ -140,4 +126,18 @@ Stratum V2 is the next generation protocol for pooled mining. It increases secur
 
 
 
+
+## PlebDevs Discord
+
+A scrappy group of plebdevs focused on Bitcoin/Lightning app development. Level up together!
+
+{% embed url="https://discord.gg/MqwvXfTBwt" %}
+
+## Stratum V2
+
+Stratum V2 is the next generation protocol for pooled mining. It increases security, makes data transfers more efficient, and reduces mining infrastructure requirements. It also introduces three new sub-protocols that let miners select transaction sets and improve decentralization.
+
+[Join Discord](https://discord.gg/fsEW23wFYs)
+
+{% embed url="https://stratumprotocol.org/" %}
 

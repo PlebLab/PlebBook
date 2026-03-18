@@ -31,6 +31,12 @@ Faraday is a suite of tools built to help node operators and businesses run lnd,
 
 {% embed url="https://github.com/lightninglabs/faraday" %}
 
+### LangChainBitcoin (AI x Bitcoin)
+
+LangChainBitcoin is an open-source integration layer from Lightning Labs that helps developers connect AI agent workflows to Bitcoin and Lightning operations.
+
+{% embed url="https://github.com/lightninglabs/LangChainBitcoin" %}
+
 ### Mash
 
 New ways to monetize media for publishers & creators. Leverage bitcoin & the lightning network with no-code immersive tools your audience will love. Take power back from big-tech and stop relying on ads and high-friction subscriptions.

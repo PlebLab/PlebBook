@@ -5,6 +5,20 @@ coverY: 112.65610859728507
 
 # APIs
 
+### Alby Developer Tools
+
+Alby provides developer tooling and integration guides for Lightning-enabled applications, including wallet connectivity and payment flows.
+
+{% embed url="https://guides.getalby.com/user-guide/developers-guide-and-tools" %}
+
+### Boltz API
+
+Boltz exposes a RESTful HTTP API that can be used to query information like supported pairs as well as to create and monitor swaps. All swap clients, like Boltz Web App, use Boltz API under the hood.
+
+{% embed url="https://api.docs.boltz.exchange" %}
+
+{% embed url="https://boltz.exchange/" %}
+
 ### Breez SDK
 
 Breez wants to help you thrive in the P2P Lightning economy. That’s why we’re developing this SDK. It’s the easiest way to tailor Lightning to your own environment, letting your users send and receive P2P bitcoin payments directly from your app.
@@ -13,23 +27,23 @@ Breez wants to help you thrive in the P2P Lightning economy. That’s why we’r
 
 {% embed url="https://doc.breez.technology/" %}
 
-### Boltz API
+### BTCPay Server Greenfield API
 
-Boltz exposes a RESTful HTTP API that can be used to query information like supported pairs as well as to create and monitor swaps. All swap clients, like Boltz Web App, use Boltz API under the hood.
+BTCPay Server's Greenfield API enables merchants and developers to automate invoices, stores, payment methods, and integrations for Bitcoin payments.
 
-{% embed url="https://docs.boltz.exchange/api" %}
-
-
-
-
-
-
+{% embed url="https://docs.btcpayserver.org/API/Greenfield/v1/" %}
 
 ### Eclair API
 
 The API uses HTTP form data and returns JSON-encoded objects or simple strings if no objects are being returned. All errors are handled with a JSON response (more info here). All monetary values are in millisatoshi unless stated otherwise.
 
 {% embed url="https://acinq.github.io/eclair/#introduction" %}
+
+### Esplora API (Blockstream)
+
+Esplora API is a widely used REST interface for Bitcoin blockchain and mempool data used by explorers, wallets, and backend services.
+
+{% embed url="https://github.com/Blockstream/esplora/blob/master/API.md" %}
 
 ### Lightning Labs API
 
@@ -60,12 +74,6 @@ Mempool.space is the best mempool explorer out there. It also exposes an Esplora
 Provides a standardized API for Lightning Network interactions within web applications, enabling easy integration for browser-based services.
 
 {% embed url="https://www.webln.dev/" %}
-
-
-
-
-
-
 
 ### Zaprite API
 
