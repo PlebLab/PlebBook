@@ -69,4 +69,14 @@ Privacy-focused Bitcoin wallet that integrates CoinJoin technology for enhanced 
 
 Mobile Lightning Network wallet that allows you to connect to your own node, providing a full suite of node management features from your mobile device.
 
+{% embed url="https://getzeus.app/" %}
+
 {% embed url="https://github.com/ZeusLN/zeus" %}
+
+## Phoenix Wallet
+
+Phoenix is a self-custodial Lightning wallet from ACINQ focused on reliable payments with simple UX and automatic channel management.
+
+{% embed url="https://phoenix.acinq.co/" %}
+
+{% embed url="https://github.com/ACINQ/phoenix" %}

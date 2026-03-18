@@ -212,6 +212,10 @@ We'll start by diving into the cryptographic algorithms used in Bitcoin and walk
 
 ## Spiral
 
+Spiral builds and funds open-source Bitcoin projects and publishes technical talks and engineering content for developers.
+
+{% embed url="https://spiral.xyz/" %}
+
 {% embed url="https://www.youtube.com/@SpiralBTC/videos" %}
 
 ## Summer of Bitcoin

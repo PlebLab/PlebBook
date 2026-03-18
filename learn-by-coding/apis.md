@@ -17,7 +17,9 @@ Breez wants to help you thrive in the P2P Lightning economy. That’s why we’r
 
 Boltz exposes a RESTful HTTP API that can be used to query information like supported pairs as well as to create and monitor swaps. All swap clients, like Boltz Web App, use Boltz API under the hood.
 
-{% embed url="https://docs.boltz.exchange/api" %}
+{% embed url="https://api.docs.boltz.exchange" %}
+
+{% embed url="https://boltz.exchange/" %}
 
 ### BTCPay Server Greenfield API
 
