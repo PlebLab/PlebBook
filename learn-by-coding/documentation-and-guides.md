@@ -29,6 +29,12 @@ Basis of Lightning Technology (Lightning Network Specifications).
 
 {% embed url="https://github.com/lightning/bolts" %}
 
+### Bitcoin Improvement Proposals (BIPs)
+
+Canonical repository for Bitcoin Improvement Proposals (BIPs), including process BIPs and technical protocol standards.
+
+{% embed url="https://github.com/bitcoin/bips" %}
+
 ### Core Lightning (CLN) Documentation
 
 Here you can find everything you need to jump-start your journey to running and building on Core Lightning.
@@ -91,13 +97,18 @@ The LND Overview and Developer Guide aims to provide just enough information abo
 
 {% embed url="https://obc.256k1.dev/#_overview_development_process" %}
 
+### Bitcoin Core Academy
+
+A community-run curriculum and workshop path for learning how to contribute to Bitcoin Core.
+
+{% embed url="https://bitcoincore.academy/" %}
+
 ### The Bitcoin Optech
 
 The Bitcoin Operations Technology Group (Optech) works to bring the best open source technologies and techniques to Bitcoin-using businesses in order to lower costs and improve customer experiences.
 
-An initial focus for the group is working with its member organizations to reduce transaction sizes and minimize the effect of subsequent transaction fee increases. We provide [workshops](https://bitcoinops.org/workshops), [documentation](https://github.com/bitcoinops/scaling-book), [weekly newsletters](https://bitcoinops.org/en/newsletters/), [original research](https://dashboard.bitcoinops.org/), [case studies and announcements](https://bitcoinops.org/en/blog/), a [podcast](https://bitcoinops.org/en/podcast/), and help facilitate improved relations between businesses and the open source community.
+An initial focus for the group is working with its member organizations to reduce transaction sizes and minimize the effect of subsequent transaction fee increases. We provide [workshops](https://bitcoinops.org/workshops), [documentation](https://github.com/bitcoinops/scaling-book), [weekly newsletters](https://bitcoinops.org/en/newsletters/), [topic-focused technical analysis](https://bitcoinops.org/en/topics/), [case studies and announcements](https://bitcoinops.org/en/blog/), a [podcast](https://bitcoinops.org/en/podcast/), and help facilitate improved relations between businesses and the open source community.
 
 {% embed url="https://bitcoinops.org/" %}
-
 
 

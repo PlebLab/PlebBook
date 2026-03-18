@@ -137,7 +137,7 @@ coverY: 98.9481000926784
 
 [**Luke Dashjr**](https://github.com/luke-jr) - As the longest-contributing Bitcoin Core developer, I’ve been working on Bitcoin since the start of 2011, primarily involving ongoing development.
 
-[**Max Hillebrand**](https://github.com/MaxHillebrand) - Building the tools to use in order to defend liberties.
+[**Max Hillebrand**](https://github.com/maxhillebr) - Building the tools to use in order to defend liberties.
 
 [**Michael Ford** ](https://github.com/fanquake)- Full time Bitcoin Core maintainer.
 
@@ -204,4 +204,3 @@ coverY: 98.9481000926784
 [**Vincenzo Palazzo**](https://github.com/vincenzopalazzo) - Working on c-lightning implementation, and current maintainer of lnprototest and rust-clightning-rpc rust library.
 
 [**wiz**](https://github.com/wiz) - Working on various projects for the Bitcoin community, see wiz.biz for more details.
-

@@ -47,11 +47,11 @@ SatsHack is the hackaton that takes place at SatsConf.
 
 {% embed url="https://eventornado.com/event/satshack#home" %}
 
-## #SATSx Hackathon
+## SatX (#SATSx)
 
-SATSx Hackathon is a yearly hackathon that takes place in Austin Texas. #SATSx was created in 2022 to see the Bitcoin community rally together in Austin to commemorate another year of growth, friendship, and fostering of a builder community that’s set to revolutionize our very way of life.
+SatX (formerly known as SATSx) continues to publish Bitcoin ecosystem tools and community channels. If you are tracking SATSx-related updates, use the active SatX domain below.
 
-[https://www.satsx.dev/](https://www.satsx.dev/)
+[https://satsx.io/](https://satsx.io/)
 
 ## TabConf Hackathon
 
