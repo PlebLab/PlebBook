@@ -9,6 +9,10 @@ coverY: 109
 
 {% embed url="https://www.axiombtc.capital/" %}
 
+## Bitcoin Opportunity Fund
+
+{% embed url="https://www.bitcoinopportunity.fund/" %}
+
 ## Bitcoiner Ventures
 
 We are dedicated to funding Bitcoin companies and projects that are good for Bitcoin.
@@ -19,6 +23,15 @@ We are dedicated to funding Bitcoin companies and projects that are good for Bit
 
 {% embed url="https://bitgrowlab.com/" %}
 
+## Cholla Ventures
+
+{% embed url="https://www.chollapetro.com/cholla-ventures" %}
+## Ego Death Capital
+
+We don’t follow the rules, we create our own. We look below the surface. We constantly question. We avoid group-think and narrow-mindedness. We seek truth. We want a world that is unified, not divided. We value kindness, generosity, honesty and integrity. We support the collective good. We reject exclusivity and exploitation. We believe in financial security for all and equal access to wealth. We don’t subscribe to excessive greed. We trust in abundance. We recognize the importance of this work. We are entrepreneurs investing in entrepreneurs. We fund game-changing companies with innovative solutions to real problems.
+
+{% embed url="https://egodeath.capital/" %}
+
 ## Epoch VC
 
 {% embed url="https://epochvc.io/" %}
@@ -28,12 +41,6 @@ We are dedicated to funding Bitcoin companies and projects that are good for Bit
 We believe in Bitcoin as a next generation politically neutral monetary system, the foundation for decentralized finance of the future. While Bitcoin is an efficient settlement layer, it needs a Layer-2 solution for everyday transactions. That is why we support development of the Lightning Network - an essential step towards decentralized finance.
 
 {% embed url="https://fulgur.ventures/" %}
-
-## Ego Death Capital
-
-We don’t follow the rules, we create our own. We look below the surface. We constantly question. We avoid group-think and narrow-mindedness. We seek truth. We want a world that is unified, not divided. We value kindness, generosity, honesty and integrity. We support the collective good. We reject exclusivity and exploitation. We believe in financial security for all and equal access to wealth. We don’t subscribe to excessive greed. We trust in abundance. We recognize the importance of this work. We are entrepreneurs investing in entrepreneurs. We fund game-changing companies with innovative solutions to real problems.
-
-{% embed url="https://egodeath.capital/" %}
 
 ## HCM Capital
 
@@ -56,6 +63,10 @@ Our mission is to invest in and support the next generation of market-defining B
 We are the first family office to adopt the Bitcoin standard, believing that Bitcoin is the Ultimate Store of Value for transferring wealth across generations.
 
 {% embed url="https://www.mimesiscapital.com/" %}
+
+## PermaVentures
+
+{% embed url="https://perma.ventures/" %}
 
 ## Seetee
 
@@ -91,14 +102,3 @@ We help Bitcoin founders build iconic brands at the emergence of a new monetary 
 
 {% embed url="https://vailshire.com/" %}
 
-## Bitcoin Opportunity Fund
-
-{% embed url="https://www.bitcoinopportunity.fund/" %}
-
-## PermaVentures
-
-{% embed url="https://perma.ventures/" %}
-
-## Cholla Ventures
-
-{% embed url="https://www.chollapetro.com/cholla-ventures" %}

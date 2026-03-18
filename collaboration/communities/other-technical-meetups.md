@@ -35,29 +35,23 @@ Austin-based builder meetup focused on shipping, learning, and collaborating acr
 
 {% embed url="https://bitcoinbuilderatx.com/" %}
 
-## PlebLab Builders Calendar
-
-PlebLab builder events calendar for workshops, startup days, and community sessions.
-
-{% embed url="https://luma.com/calendar/manage/cal-Kz7zAdSpmjwG4Sp" %}
-
 ## Bitcoin Builders Club
 
 Bitcoin Builders Club calendar for builder meetups and collaborative technical sessions.
 
 {% embed url="https://luma.com/calendar/cal-a9wRNBLgALnsGj9" %}
 
-## Bitcoin Park Austin Meetups
-
-Bitcoin Park hosts recurring Austin meetups and community events for builders and operators.
-
-{% embed url="https://www.meetup.com/bitcoin-park-austin/" %}
-
 ## Bitcoin Core PR Review Club
 
 Global technical meetup format for reviewing Bitcoin Core pull requests with contributors and new reviewers.
 
 {% embed url="https://bitcoincore.reviews/" %}
+
+## Bitcoin Park Austin Meetups
+
+Bitcoin Park hosts recurring Austin meetups and community events for builders and operators.
+
+{% embed url="https://www.meetup.com/bitcoin-park-austin/" %}
 
 ## Chicago Nostr Meetup
 
@@ -76,6 +70,12 @@ Informal discussions on Bitcoin, the Lightning Network, the Nostr protocol, and 
 Technical Bitcoin event held every year at Massachusetts Institute of Technology.
 
 {% embed url="https://mitbtcexpo.org/" %}
+
+## PlebLab Builders Calendar
+
+PlebLab builder events calendar for workshops, startup days, and community sessions.
+
+{% embed url="https://luma.com/calendar/manage/cal-Kz7zAdSpmjwG4Sp" %}
 
 ## San Francisco Lightning Network Developers
 

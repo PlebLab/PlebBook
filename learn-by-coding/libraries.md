@@ -21,6 +21,14 @@ Flutter library for the above Bitcoin Development Kit.
 
 
 
+## bitcoin-s
+
+Scala-based Bitcoin library that provides tools and functionalities, including a robust API for building Bitcoin applications and platforms.
+
+{% embed url="https://github.com/bitcoin-s/bitcoin-s" %}
+
+
+
 ## bitcoinj
 
 Java-based library for Bitcoin applications, particularly well-suited for lightweight clients.
@@ -32,14 +40,6 @@ Java-based library for Bitcoin applications, particularly well-suited for lightw
 JavaScript library for Bitcoin protocol, ideal for building Bitcoin-based client-side applications.
 
 {% embed url="https://github.com/bitcoinjs/bitcoinjs-lib" %}
-
-## bitcoin-s
-
-Scala-based Bitcoin library that provides tools and functionalities, including a robust API for building Bitcoin applications and platforms.
-
-{% embed url="https://github.com/bitcoin-s/bitcoin-s" %}
-
-
 
 ## embit
 
@@ -55,17 +55,65 @@ Sell digital files with Lightning.
 
 {% embed url="https://github.com/ElementsProject/filebazaar" %}
 
+## Get Lightning Paid
+
+A Flask REST API to generate lightning invoices and payment confirmations.
+
+{% embed url="https://github.com/conscott/get-lightning-paid" %}
+
 ## gLightning
 
 Golang based plugin for c-lightning
 
 {% embed url="https://github.com/elementsproject/glightning" %}
 
-## Get Lightning Paid
+## Lighning PHP
 
-A Flask REST API to generate lightning invoices and payment confirmations.
+PHP client for direct RPC-based access to the c-lightning daemon
 
-{% embed url="https://github.com/conscott/get-lightning-paid" %}
+{% embed url="https://github.com/microlancer/lightning-php" %}
+
+## Lighter
+
+LN node wrapper for c-lightning, eclair and LND (Python)
+
+{% embed url="https://gitlab.com/inbitcoin/lighter" %}
+
+## Lightning Charge
+
+A simple drop-in solution for accepting lightning payments (Javascript)
+
+{% embed url="https://github.com/ElementsProject/lightning-charge" %}
+
+## Lightning Charge Client js
+
+JavaScript client for lightning-charge
+
+{% embed url="https://github.com/ElementsProject/lightning-charge-client-js" %}
+
+## Lightning Integration
+
+Lightning Integration Testing Framework
+
+{% embed url="https://github.com/cdecker/lightning-integration" %}
+
+## Lightning Payencode
+
+Minimal QR-code-ready encoding for requesting lightning payments
+
+{% embed url="https://github.com/rustyrussell/lightning-payencode" %}
+
+## Lightningd gjson
+
+Talk with a lightningd/c-lightning with minimal overhead and gjson responses.
+
+{% embed url="https://github.com/fiatjaf/lightningd-gjson-rpc" %}
+
+## LightningJ
+
+LND Integration API for Java
+
+{% embed url="http://www.lightningj.org/" %}
 
 ## ln-Paywall
 
@@ -96,54 +144,6 @@ Auto-generated LND RPC interface with Typescript type definition support
 A DNS seed for the Lightning Network
 
 {% embed url="https://github.com/RadarTech/lnrpc" %}
-
-## Lighter
-
-LN node wrapper for c-lightning, eclair and LND (Python)
-
-{% embed url="https://gitlab.com/inbitcoin/lighter" %}
-
-## Lightning Charge Client js
-
-JavaScript client for lightning-charge
-
-{% embed url="https://github.com/ElementsProject/lightning-charge-client-js" %}
-
-## Lightning Charge
-
-A simple drop-in solution for accepting lightning payments (Javascript)
-
-{% embed url="https://github.com/ElementsProject/lightning-charge" %}
-
-## Lightning Integration
-
-Lightning Integration Testing Framework
-
-{% embed url="https://github.com/cdecker/lightning-integration" %}
-
-## Lightning Payencode
-
-Minimal QR-code-ready encoding for requesting lightning payments
-
-{% embed url="https://github.com/rustyrussell/lightning-payencode" %}
-
-## Lighning PHP
-
-PHP client for direct RPC-based access to the c-lightning daemon
-
-{% embed url="https://github.com/microlancer/lightning-php" %}
-
-## LightningJ
-
-LND Integration API for Java
-
-{% embed url="http://www.lightningj.org/" %}
-
-## Lightningd gjson
-
-Talk with a lightningd/c-lightning with minimal overhead and gjson responses.
-
-{% embed url="https://github.com/fiatjaf/lightningd-gjson-rpc" %}
 
 ## NBitcoin
 
@@ -189,14 +189,14 @@ Some WebLN client providers include
 
 {% embed url="https://webln.dev/#/" %}
 
+## WooCommerce Gateway Lightning
+
+A WooCommerce gateway for lightning payments
+
+{% embed url="https://github.com/ElementsProject/woocommerce-gateway-lightning" %}
 ## Wordpress Lightning Publisher
 
 Lightning Publisher for WordPress.
 
 {% embed url="https://github.com/ElementsProject/wordpress-lightning-publisher" %}
 
-## WooCommerce Gateway Lightning
-
-A WooCommerce gateway for lightning payments
-
-{% embed url="https://github.com/ElementsProject/woocommerce-gateway-lightning" %}

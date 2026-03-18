@@ -5,17 +5,17 @@ coverY: 110.16033364226135
 
 # Hackathons
 
-## Bolt.Fun
-
-\#BuildOnBitcoin. People are building the future of the internet with Bitcoin. From social networks, to streaming payments, and even custom assets.Proof of work starts with you. Share your work, build in public, win bounties and take part in hackathons and tournaments! And become a part of the most FUN developers community!
-
-{% embed url="https://bolt.fun/home" %}
-
 ## Bitcoin++ Hackathon
 
 Bitcoin++ is a developer-focused conference series. We place a heavy emphasis on long form lectures and workshops, with smaller more-focused audiences who are excited to get deeper into the cutting edge of bitcoin tech.
 
 {% embed url="https://btcplusplus.dev/static/atx23/#about" %}
+
+## Bolt.Fun
+
+\#BuildOnBitcoin. People are building the future of the internet with Bitcoin. From social networks, to streaming payments, and even custom assets.Proof of work starts with you. Share your work, build in public, win bounties and take part in hackathons and tournaments! And become a part of the most FUN developers community!
+
+{% embed url="https://bolt.fun/home" %}
 
 ## Devpost Bitcoin Hackathons
 

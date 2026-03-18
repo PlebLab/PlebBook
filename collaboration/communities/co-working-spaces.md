@@ -27,29 +27,29 @@ A community supported campus in Nashville focused on grassroots bitcoin adoption
 
 {% embed url="https://bitcoinpark.com/" %}
 
-## BOB Space - Krung Thep, Thailand
-
-A Bitcoin only hatchery, incubator and co-working space in the heart of Krung Thep, Thailand. Supporting Bitcoin education, adoption and advocating freedom tech.
-
-{% embed url="https://www.bobspaces.net/" %}
-
 ## Bitshala Bitspace - Bangalore, India
 
 India's First Bitcoin FOSS Hackerspace to work, learn, and have a ton of fun!
 
 {% embed url="https://bitshala.org/bitspace/" %}
 
-## Casa21 - São Paulo, Brazil
+## BOB Space - Krung Thep, Thailand
 
-A Bitcoin hackerhouse based in São Paulo, Brazil powered by Vinteum. Holds monthly BitDevs, workshops and much more!
+A Bitcoin only hatchery, incubator and co-working space in the heart of Krung Thep, Thailand. Supporting Bitcoin education, adoption and advocating freedom tech.
 
-{% embed url="https://x.com/casavinteum/" %}
+{% embed url="https://www.bobspaces.net/" %}
 
 ## Casa Del Bitcoin
 
 The House of Bitcoin is a place where training, and meetings are held and help to understand and adopt the technology. We don't focus on a particular platform, but on being able to help people understand what Bitcoin is, how it works, and in this way, making adoption much more effective for the population.
 
 {% embed url="https://www.lacasadelbitcoin.org/" %}
+
+## Casa21 - São Paulo, Brazil
+
+A Bitcoin hackerhouse based in São Paulo, Brazil powered by Vinteum. Holds monthly BitDevs, workshops and much more!
+
+{% embed url="https://x.com/casavinteum/" %}
 
 ## Chiang Mai Bitcoin Education Center, Thailand
 

@@ -5,12 +5,6 @@ coverY: 104.89773755656108
 
 # DevConfs
 
-## ADVANCING BITCOIN
-
-So you work for a company that has or is considering bitcoin or blockchain technology in its strategy? Before going any further come to this expert-led bitcoin conference to hear about best practices and see the best in class products and services on the market for companies just like yours. Bitcoin is now mainstream. The number of bitcoin users is growing steadily and now is the best time to get ahead of the curve to understand what role bitcoin can play in your corporate strategy. Experienced bitcoin solution providers and educators will share their experience and knowledge with you through 25 minute talks, hands-on workshops, and panel discussions. This is an opportunity to meet the experts, hear their thoughts live, and ask them questions.
-
-{% embed url="https://www.advancingbitcoin.com/" %}
-
 ## Adopting Bitcoin: a global lighting summit
 
 El‍ Salvador‍ is‍ the‍ first‍ country‍ to‍ adopt‍ Bitcoin,‍ making‍ it‍ the‍ ground-zero‍ for‍ global‍ Bitcoin‍ adoption.‍ This‍ novel‍ situation‍ presents‍ both‍ the‍ challenge‍ of‍ onboarding‍ users‍ and‍ the‍ opportunity‍ to‍ learn‍ from‍ them,‍ benefiting‍ the‍ entire‍ ecosystem,‍ from‍ protocol‍ and‍ application‍ developers‍ to‍ entrepreneurs,‍ investors,‍ and‍ the‍ many‍ communities‍ around‍ the‍ world‍ that‍ followed‍ Bitcoin‍ Beach's‍ example‍ by‍ establishing‍ circular‍ Bitcoin‍ economies.‍
@@ -27,6 +21,17 @@ El‍ Salvador‍ is‍ the‍ first‍ country‍ to‍ adopt‍ Bitcoin,‍ ma
 
 {% embed url="https://adoptingbitcoinarnhem.com/" %}
 
+## ADVANCING BITCOIN
+
+So you work for a company that has or is considering bitcoin or blockchain technology in its strategy? Before going any further come to this expert-led bitcoin conference to hear about best practices and see the best in class products and services on the market for companies just like yours. Bitcoin is now mainstream. The number of bitcoin users is growing steadily and now is the best time to get ahead of the curve to understand what role bitcoin can play in your corporate strategy. Experienced bitcoin solution providers and educators will share their experience and knowledge with you through 25 minute talks, hands-on workshops, and panel discussions. This is an opportunity to meet the experts, hear their thoughts live, and ask them questions.
+
+{% embed url="https://www.advancingbitcoin.com/" %}
+
+## AI Startup Rodeo
+
+AI Startup Rodeo is a founder-and-builder event focused on AI startup demos, practical workshops, and ecosystem collaboration. It brings together technical builders, operators, and investors to share what they are shipping and accelerate early-stage products.
+
+{% embed url="https://luma.com/ai-startup-rodeo" %}
 ## ALIVE: Bitcoin Australia’s premier bitcoin-only experience
 
 Bitcoin Alive brings together Australia’s Bitcoin community for a day of the highest quality Bitcoin content - featuring the best Bitcoin minds from Australia and the world. Bitcoin Alive is strictly Bitcoin-only, catering to beginners and veterans alike. Whether you are already a Bitcoiner or curious to understand this incredible technology, this event is for you.
@@ -39,20 +44,6 @@ Cypherpunk movement for PASSIONATE BITCOINERS. Yearly initiative around the Balt
 
 {% embed url="https://baltichoneybadger.com/" %}
 
-## Bitcoin++
-
-Bitcoin++ is a developer-focused conference series. We place a heavy emphasis on long form lectures and workshops, with smaller more-focused audiences who are excited to get deeper into the cutting edge of bitcoin tech. bitcoin++ is put on by Base58⛓🔓, the premier bitcoin protocol academy.
-
-{% embed url="https://btcpp.dev/" %}
-
-{% embed url="https://www.youtube.com/@btcplusplus/videos" %}
-
-## Scaling Bitcoin
-
-Scaling Bitcoin is a technical conference series focused on research and engineering discussions around Bitcoin protocol and infrastructure scalability.
-
-{% embed url="https://scalingbitcoin.org/" %}
-
 ## Bit Block Boom: Workshop Day
 
 Network with fellow Bitcoiners in Austin, Texas. We talk about Bitcoin, Bitcoin, and more Bitcoin. The BitBlockBoom! is a bitcoincConference. To put it in simple terms this conference is only for people who are interested in Bitcoin. Attendees range from people highly known and heavily involved in Bitcoin, to people who are just trying to learn what bitcoin is all about. You will not find anyone shilling shitcoins or NFTs. This is a True Bitcoin Conference. BitBlockBoom has created a wonderful atmosphere to meet and discuss bitcoin with the speakers and other bitcoiners.
@@ -64,6 +55,14 @@ Network with fellow Bitcoiners in Austin, Texas. We talk about Bitcoin, Bitcoin,
 Annual event that brings together Bitcoin enthusiasts, developers, and industry leaders for discussions, networking, and presentations on Bitcoin's future.
 
 {% embed url="https://b.tc/conference" %}
+
+## Bitcoin++
+
+Bitcoin++ is a developer-focused conference series. We place a heavy emphasis on long form lectures and workshops, with smaller more-focused audiences who are excited to get deeper into the cutting edge of bitcoin tech. bitcoin++ is put on by Base58⛓🔓, the premier bitcoin protocol academy.
+
+{% embed url="https://btcpp.dev/" %}
+
+{% embed url="https://www.youtube.com/@btcplusplus/videos" %}
 
 ## BTC Azores
 
@@ -101,6 +100,12 @@ PlebLab Startup Day is an ideal platform for startups to pitch their ideas to a 
 
 {% embed url="https://www.pleblab.dev/startup-day" %}
 
+## Scaling Bitcoin
+
+Scaling Bitcoin is a technical conference series focused on research and engineering discussions around Bitcoin protocol and infrastructure scalability.
+
+{% embed url="https://scalingbitcoin.org/" %}
+
 ## TABConf
 
 TABConf is an event for building the Bitcoin community, providing education, and supporting developers. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin. The founders, Michael Tidwell & Brandon Iglesias, saw an opportunity to further Bitcoin education for the developers of Atlanta by bringing some of the greatest minds into one space. The goal was to run a stress-free, at-cost conference that helped the people of Atlanta and gave back to the community. At TABConf, we bring together the best and brightest minds in the bitcoin world to share their insights, knowledge, and experience about the latest developments. From seasoned core devs to up-and-coming plebs.
@@ -113,8 +118,3 @@ An intimate two-day summit focused on bitcoin and lightning.
 
 {% embed url="https://www.meetup.com/bitcoinpark/events/291052525/" %}
 
-## AI Startup Rodeo
-
-AI Startup Rodeo is a founder-and-builder event focused on AI startup demos, practical workshops, and ecosystem collaboration. It brings together technical builders, operators, and investors to share what they are shipping and accelerate early-stage products.
-
-{% embed url="https://luma.com/ai-startup-rodeo" %}

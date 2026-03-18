@@ -23,6 +23,12 @@ Startup program for teams working on making Bitcoin not only a firm asset class,
 
 {% embed url="https://studio.draperx.vc/" %}
 
+## Pleb TLV
+
+Pleb TLV is cultivating the next generation of Bitcoin and Lightning startups in Tel-Aviv. If you’ve always wanted to start a Bitcoin or Lightning venture, you belong with us. We will help you ideate, build your product, and develop a marketing strategy. We offer access to our vast network of Bitcoin and Lightning companies and investors. Selected ventures will receive office space and initial capital.
+
+{% embed url="https://plebtlv.com/" %}
+
 ## PlebLab
 
 PlebLab is a Bitcoin hackerspace and community accelerator in Austin, Texas. PlebLab is the first of its kind. PlebLab is 100% Developer focused. If you're a builder, we want you here.\
@@ -36,12 +42,6 @@ PlebLab is a Bitcoin hackerspace and community accelerator in Austin, Texas. Ple
 PlebLab throws private and public events, workshops, hackathons, and startup days for community members inside of PlebLab.
 
 {% embed url="https://www.pleblab.com/" %}
-
-## Pleb TLV
-
-Pleb TLV is cultivating the next generation of Bitcoin and Lightning startups in Tel-Aviv. If you’ve always wanted to start a Bitcoin or Lightning venture, you belong with us. We will help you ideate, build your product, and develop a marketing strategy. We offer access to our vast network of Bitcoin and Lightning companies and investors. Selected ventures will receive office space and initial capital.
-
-{% embed url="https://plebtlv.com/" %}
 
 ## Wolf
 
