@@ -29,6 +29,24 @@ If you want to explore a rapidly growing ecosystem of new apps, built on a secur
 
 {% embed url="https://www.meetup.com/austin-nostr-devs/" %}
 
+## Bitcoin Builder ATX
+
+Austin-based builder meetup focused on shipping, learning, and collaborating across Bitcoin and Lightning projects.
+
+{% embed url="https://bitcoinbuilderatx.com/" %}
+
+## PlebLab Builders Meetup
+
+PlebLab community meetup stream for builders, workshops, and technical sessions in Austin.
+
+{% embed url="https://www.meetup.com/pleb-lab/" %}
+
+## Bitcoin Park Austin Meetups
+
+Bitcoin Park hosts recurring Austin meetups and community events for builders and operators.
+
+{% embed url="https://www.meetup.com/bitcoin-park-austin/" %}
+
 ## Chicago Nostr Meetup
 
 This meetup was formed with the goal of bringing together like-minded individuals who share a passion for Nostr. We hold regular meetings where we discuss the latest developments in Nostr, and share our ideas and experiences. The goal is to onboard more people to nostr and spread the message.
@@ -52,4 +70,3 @@ Technical Bitcoin event held every year at Massachusetts Institute of Technology
 A group for developers building on the Lightning Network or interested in learning about building on the Lightning Network in the San Francisco Bay Area. We'll discuss the latest developments and proposals to the Lightning Network, as well new applications and use cases for the Lightning Network.
 
 {% embed url="https://www.meetup.com/SF-Lightning-Devs/" %}
-
