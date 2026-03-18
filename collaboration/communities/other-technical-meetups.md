@@ -45,7 +45,7 @@ PlebLab builder events calendar for workshops, startup days, and community sessi
 
 Bitcoin Builders Club calendar for builder meetups and collaborative technical sessions.
 
-{% embed url="https://luma.com/calendar/manage/cal-a9wRNBLgALnsGj9" %}
+{% embed url="https://luma.com/calendar/cal-a9wRNBLgALnsGj9" %}
 
 ## Bitcoin Park Austin Meetups
 
