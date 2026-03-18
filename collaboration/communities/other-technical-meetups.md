@@ -35,11 +35,11 @@ Austin-based builder meetup focused on shipping, learning, and collaborating acr
 
 {% embed url="https://bitcoinbuilderatx.com/" %}
 
-## PlebLab Builders Meetup
+## PlebLab Builders Calendar
 
-PlebLab community meetup stream for builders, workshops, and technical sessions in Austin.
+PlebLab builder events calendar for workshops, startup days, and community sessions.
 
-{% embed url="https://www.meetup.com/pleb-lab/" %}
+{% embed url="https://luma.com/calendar/manage/cal-Kz7zAdSpmjwG4Sp" %}
 
 ## Bitcoin Park Austin Meetups
 
