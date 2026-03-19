@@ -127,6 +127,12 @@ Una mezcla de seminarios socráticos, clases y talleres para mejorar tus habilid
 
 [https://www.youtube.com/@LightningLabs](https://www.youtube.com/@LightningLabs)
 
+## PlanB Academy
+
+Bitcoin courses from beginner to advanced users.
+
+{% embed url="https://planb.academy" %}
+
 ## PlebDevs
 
 A scrappy group of plebdevs focused on Bitcoin/Lightning app development. Let's level up together!
