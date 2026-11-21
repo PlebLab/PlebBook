@@ -11,6 +11,12 @@ Browser extension wallet for the Lightning Network, designed to facilitate easy 
 
 {% embed url="https://getalby.com/products/browser-extension" %}
 
+## BitTool Signer (iOS)
+
+Free, open-source signing software for a dedicated offline iPhone. Decodes signing requests locally and exchanges requests and signatures through QR codes, with Bitcoin PSBT signing and multisig cosigner support. It is a multi-chain app; a separate online wallet broadcasts transactions. No independent third-party security audit.
+
+{% embed url="https://bittool.com/signer/" %}
+
 ## Blixt Wallet
 
 A non-custodial open-source Lightning Wallet with a WebLN browser.
